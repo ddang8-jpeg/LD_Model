@@ -1,0 +1,4043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+<Style id='icon-1736-0F9D58-normal'><IconStyle><color>ffffa0a0</color><scale>1</scale><Icon><href>https://maps.google.com/mapfiles/kml/pal4/icon35.png</href></Icon></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>
+<Style id='icon-1736-0F9D58-highlight'><IconStyle><color>ffa0a0ff</color><scale>1</scale><Icon><href>https://maps.google.com/mapfiles/kml/pal4/icon35.png</href></Icon></IconStyle><LabelStyle><scale>1</scale></LabelStyle></Style>
+<StyleMap id='icon-1736-0F9D58'><Pair><key>normal</key><styleUrl>#icon-1736-0F9D58-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-1736-0F9D58-highlight</styleUrl></Pair></StyleMap>
+
+<Style id='icon-1736-0F9D58-nodesc-normal'><IconStyle><color>ffffa0a0</color><scale>1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon35.png</href></Icon></IconStyle><LabelStyle><scale>0</scale></LabelStyle><BalloonStyle><text><![CDATA[<h3>$[name]</h3>]]></text></BalloonStyle></Style>
+<Style id='icon-1736-0F9D58-nodesc-highlight'><IconStyle><color>ffa0a0ff</color><scale>1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon35.png</href></Icon></IconStyle><LabelStyle><scale>1</scale></LabelStyle><BalloonStyle><text><![CDATA[<h3>$[name]</h3>]]></text></BalloonStyle></Style>
+<StyleMap id='icon-1736-0F9D58-nodesc'><Pair><key>normal</key><styleUrl>#icon-1736-0F9D58-nodesc-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#icon-1736-0F9D58-nodesc-highlight</styleUrl></Pair></StyleMap>
+
+    <Placemark>
+      <name>10-01 Husson Ave, Bronx, NY 10474, United States</name>
+      <description>P(0.50) at 10-01 Husson Ave, Bronx, NY 10474, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88053975711976,40.78703084690281,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>10-01 Husson Ave, Bronx, NY 10474, United States</name>
+      <description>P(0.62) at 10-01 Husson Ave, Bronx, NY 10474, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88051649573335,40.78704576637986,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>10-01 Husson Ave, Bronx, NY 10474, United States</name>
+      <description>P(0.59) at 10-01 Husson Ave, Bronx, NY 10474, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88780635165226,40.79691547685509,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>17 - 17 Hazen St, East Elmhurst, NY 11370, USA</name>
+      <description>P(0.65) at 17 - 17 Hazen St, East Elmhurst, NY 11370, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88776054376358,40.79691610987169,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>17 - 17 Hazen St, East Elmhurst, NY 11370, USA</name>
+      <description>P(0.67) at 17 - 17 Hazen St, East Elmhurst, NY 11370, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88771583011639,40.79691543980228,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>900 E 132nd St, Bronx, NY 10454, USA</name>
+      <description>P(0.41) at 900 E 132nd St, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91296122611088,40.797836754507884,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>10-01 Husson Ave, Bronx, NY 10474, United States</name>
+      <description>P(0.78) at 10-01 Husson Ave, Bronx, NY 10474, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88780502299987,40.79690931892307,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>17 - 17 Hazen St, East Elmhurst, NY 11370, USA</name>
+      <description>P(0.81) at 17 - 17 Hazen St, East Elmhurst, NY 11370, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88776154448628,40.79690860118266,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>17 - 17 Hazen St, East Elmhurst, NY 11370, USA</name>
+      <description>P(0.84) at 17 - 17 Hazen St, East Elmhurst, NY 11370, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88771585917475,40.79690875588407,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>951 E 132nd St, Bronx, NY 10454, USA</name>
+      <description>P(0.49) at 951 E 132nd St, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90933943264479,40.7986575622141,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>951 E 132nd St, Bronx, NY 10454, USA</name>
+      <description>P(0.52) at 951 E 132nd St, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90931004034819,40.79868627946654,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>900 E 132nd St, Bronx, NY 10454, USA</name>
+      <description>P(0.88) at 900 E 132nd St, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91298386406639,40.797821901627515,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>900 E 132nd St, Bronx, NY 10454, USA</name>
+      <description>P(0.88) at 900 E 132nd St, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91293665782108,40.79785720581668,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>900 E 132nd St, Bronx, NY 10454, USA</name>
+      <description>P(0.87) at 900 E 132nd St, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.912890511643,40.79788879572069,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>951 E 132nd St, Bronx, NY 10454, USA</name>
+      <description>P(0.72) at 951 E 132nd St, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90903378731814,40.79904240691505,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>670 E 132nd St, Bronx, NY 10454, United States</name>
+      <description>P(0.81) at 670 E 132nd St, Bronx, NY 10454, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91591927641734,40.799017134683695,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>670 E 132nd St, Bronx, NY 10454, United States</name>
+      <description>P(0.83) at 670 E 132nd St, Bronx, NY 10454, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91594514260014,40.79898358963092,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>770 E 132nd St, Bronx, NY 10454, United States</name>
+      <description>P(0.82) at 770 E 132nd St, Bronx, NY 10454, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91570165005241,40.799393660837524,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>770 E 132nd St, Bronx, NY 10454, United States</name>
+      <description>P(0.83) at 770 E 132nd St, Bronx, NY 10454, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91567900228715,40.79942686747704,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>400 Walnut Ave, Bronx, NY 10454, USA</name>
+      <description>P(0.38) at 400 Walnut Ave, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90464751809127,40.8055018229607,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>400 Walnut Ave, Bronx, NY 10454, USA</name>
+      <description>P(0.49) at 400 Walnut Ave, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90462830703932,40.8055223137263,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1 Hanus St, Bronx, NY 10465, United States</name>
+      <description>P(0.74) at 1 Hanus St, Bronx, NY 10465, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.79236831173777,40.80437971672359,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>322 Bruckner Blvd, Bronx, NY 10454, USA</name>
+      <description>P(0.85) at 322 Bruckner Blvd, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90804813765577,40.806016988049464,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>322 Bruckner Blvd, Bronx, NY 10454, USA</name>
+      <description>P(0.88) at 322 Bruckner Blvd, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90809164667296,40.80604176753031,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>380 Southern Blvd, Bronx, NY 10454, USA</name>
+      <description>P(0.62) at 380 Southern Blvd, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90733244113612,40.80756792587731,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>380 Southern Blvd, Bronx, NY 10454, USA</name>
+      <description>P(0.63) at 380 Southern Blvd, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90735697498307,40.80758599577212,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>380 Southern Blvd, Bronx, NY 10454, USA</name>
+      <description>P(0.70) at 380 Southern Blvd, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90735595441065,40.807578484217196,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>380 Southern Blvd, Bronx, NY 10454, USA</name>
+      <description>P(0.71) at 380 Southern Blvd, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90733312850948,40.80756444341787,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>304 E 134th St, Bronx, NY 10454, USA</name>
+      <description>P(0.71) at 304 E 134th St, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92775098883611,40.80766360820988,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>380 Southern Blvd, Bronx, NY 10454, USA</name>
+      <description>P(0.79) at 380 Southern Blvd, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90718553973947,40.80753759932545,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>380 Southern Blvd, Bronx, NY 10454, USA</name>
+      <description>P(0.80) at 380 Southern Blvd, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90716129939214,40.80751886445227,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>828 E 144th St, Bronx, NY 10454, USA</name>
+      <description>P(0.77) at 828 E 144th St, Bronx, NY 10454, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90687167082142,40.80826937250799,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>300 Halleck St, Bronx, NY 10474, USA</name>
+      <description>P(0.52) at 300 Halleck St, Bronx, NY 10474, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87874473824574,40.808826994739746,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>300 Halleck St, Bronx, NY 10474, USA</name>
+      <description>P(0.61) at 300 Halleck St, Bronx, NY 10474, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.878703694674,40.8088310388804,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>550 Barry St, Bronx, NY 10474, USA</name>
+      <description>P(0.48) at 550 Barry St, Bronx, NY 10474, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89654318626803,40.81024144025316,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>300 Canal Pl, Bronx, NY 10451, USA</name>
+      <description>P(0.31) at 300 Canal Pl, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.9272105377858,40.81310588310676,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>232 Grand Concourse, Bronx, NY 10451, USA</name>
+      <description>P(0.57) at 232 Grand Concourse, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92889440475294,40.814073134216876,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>657 Southern Blvd, Bronx, NY 10455, USA</name>
+      <description>P(0.71) at 657 Southern Blvd, Bronx, NY 10455, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90030240574838,40.813612740749384,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>658 Fox St, Bronx, NY 10455, USA</name>
+      <description>P(0.74) at 658 Fox St, Bronx, NY 10455, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90039011553021,40.81367011681624,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>232 Grand Concourse, Bronx, NY 10451, USA</name>
+      <description>P(0.71) at 232 Grand Concourse, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92892142912608,40.81403142712986,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1223 Spofford Ave, Bronx, NY 10474, USA</name>
+      <description>P(0.76) at 1223 Spofford Ave, Bronx, NY 10474, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89053606380394,40.81416101696826,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1223 Spofford Ave, Bronx, NY 10474, USA</name>
+      <description>P(0.79) at 1223 Spofford Ave, Bronx, NY 10474, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89050492061351,40.81416489038007,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>463 E 149th St, Bronx, NY 10455, USA</name>
+      <description>P(0.37) at 463 E 149th St, Bronx, NY 10455, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91531481954239,40.81545734793462,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>547 E 149th St, Bronx, NY 10455, USA</name>
+      <description>P(0.68) at 547 E 149th St, Bronx, NY 10455, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91326956758323,40.814824878133074,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>547 E 149th St, Bronx, NY 10455, USA</name>
+      <description>P(0.71) at 547 E 149th St, Bronx, NY 10455, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.9132519530454,40.8148520071079,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>547 E 149th St, Bronx, NY 10455, USA</name>
+      <description>P(0.77) at 547 E 149th St, Bronx, NY 10455, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91327049538795,40.81482431072002,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>432-434 E 149th St, Bronx, NY 10455, USA</name>
+      <description>P(0.83) at 432-434 E 149th St, Bronx, NY 10455, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.9161660726392,40.815161754823094,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>841 Barretto St, Bronx, NY 10474, USA</name>
+      <description>P(0.35) at 841 Barretto St, Bronx, NY 10474, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8904466826963,40.816721111719616,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2900 Harding Ave, Bronx, NY 10465, United States</name>
+      <description>P(0.50) at 2900 Harding Ave, Bronx, NY 10465, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.81537871313007,40.815977078647194,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2900 Harding Ave, Bronx, NY 10465, United States</name>
+      <description>P(0.71) at 2900 Harding Ave, Bronx, NY 10465, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.815384995874,40.81600595422803,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>261 Huntington Ave, Bronx, NY 10465, USA</name>
+      <description>P(0.75) at 261 Huntington Ave, Bronx, NY 10465, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.82229236617086,40.81623346911552,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>124 Exterior Street, Bronx, NY 10451, USA</name>
+      <description>P(0.39) at 124 Exterior Street, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92993527791468,40.81799900023954,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>841 Barretto St, Bronx, NY 10474, USA</name>
+      <description>P(0.78) at 841 Barretto St, Bronx, NY 10474, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89045438900261,40.81672233032296,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>841 Barretto St, Bronx, NY 10474, USA</name>
+      <description>P(0.80) at 841 Barretto St, Bronx, NY 10474, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8904957361779,40.81671961271405,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>847 Barretto St, Bronx, NY 10474, USA</name>
+      <description>P(0.69) at 847 Barretto St, Bronx, NY 10474, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8905144363553,40.817329012788434,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>847 Barretto St, Bronx, NY 10474, USA</name>
+      <description>P(0.76) at 847 Barretto St, Bronx, NY 10474, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89052856741323,40.817285847554196,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>847 Barretto St, Bronx, NY 10474, USA</name>
+      <description>P(0.77) at 847 Barretto St, Bronx, NY 10474, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89050619442337,40.8172880014442,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>847 Barretto St, Bronx, NY 10474, USA</name>
+      <description>P(0.76) at 847 Barretto St, Bronx, NY 10474, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89053631555775,40.81732741754949,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>448 Grand Concourse, Bronx, NY 10451, USA</name>
+      <description>P(0.82) at 448 Grand Concourse, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92736586426388,40.81755786640392,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>448 Grand Concourse, Bronx, NY 10451, USA</name>
+      <description>P(0.83) at 448 Grand Concourse, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.9273516131356,40.81759035006793,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>492 Walton Ave, Bronx, NY 10451, USA</name>
+      <description>P(0.75) at 492 Walton Ave, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92806618014724,40.81801261083878,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>492 Walton Ave, Bronx, NY 10451, USA</name>
+      <description>P(0.80) at 492 Walton Ave, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92805755759177,40.81803560279958,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>558-560 Grand Concourse, Bronx, NY 10451, USA</name>
+      <description>P(0.75) at 558-560 Grand Concourse, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92631337485177,40.81911864303969,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>558-560 Grand Concourse, Bronx, NY 10451, USA</name>
+      <description>P(0.77) at 558-560 Grand Concourse, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92631776660113,40.81909529391645,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>558-560 Grand Concourse, Bronx, NY 10451, USA</name>
+      <description>P(0.80) at 558-560 Grand Concourse, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.9263237872472,40.81911816175216,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>558-560 Grand Concourse, Bronx, NY 10451, USA</name>
+      <description>P(0.82) at 558-560 Grand Concourse, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92633339077797,40.8190952973507,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>558-560 Grand Concourse, Bronx, NY 10451, USA</name>
+      <description>P(0.81) at 558-560 Grand Concourse, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92630725950164,40.81914040560245,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>628 Exterior Street, Bronx, NY 10451, USA</name>
+      <description>P(0.73) at 628 Exterior Street, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.9299709820903,40.821757951144455,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>785 Courtlandt Ave, Bronx, NY 10451, USA</name>
+      <description>P(0.38) at 785 Courtlandt Ave, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91712941053633,40.822676807026134,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>656 Gerard Ave, Bronx, NY 10451, USA</name>
+      <description>P(0.69) at 656 Gerard Ave, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92755198167656,40.82187748123542,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>656 Gerard Ave, Bronx, NY 10451, USA</name>
+      <description>P(0.71) at 656 Gerard Ave, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92756406066717,40.82189671331899,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>628 Exterior Street, Bronx, NY 10451, USA</name>
+      <description>P(0.80) at 628 Exterior Street, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92993935872077,40.82175777226622,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>628 Exterior Street, Bronx, NY 10451, USA</name>
+      <description>P(0.84) at 628 Exterior Street, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92997022647073,40.821750342246396,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>860 Bolton Ave, Bronx, NY 10473, USA</name>
+      <description>P(0.39) at 860 Bolton Ave, Bronx, NY 10473, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.85915759802621,40.823550734430924,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>900 Washington Ave, Bronx, NY 10451, USA</name>
+      <description>P(0.43) at 900 Washington Ave, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91077191989488,40.82380589901901,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>900 Washington Ave, Bronx, NY 10451, USA</name>
+      <description>P(0.47) at 900 Washington Ave, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91075832841175,40.8237431420698,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>900 Washington Ave, Bronx, NY 10451, USA</name>
+      <description>P(0.47) at 900 Washington Ave, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91076737901521,40.82378369491325,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>900 Washington Ave, Bronx, NY 10451, USA</name>
+      <description>P(0.52) at 900 Washington Ave, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91077407839866,40.82381702758061,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>982 C Westchester Ave, Bronx, NY 10459, USA</name>
+      <description>P(0.77) at 982 C Westchester Ave, Bronx, NY 10459, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89457368507742,40.82305953169326,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>900 Washington Ave, Bronx, NY 10451, USA</name>
+      <description>P(0.57) at 900 Washington Ave, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91076129082926,40.82376026901123,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>982 C Westchester Ave, Bronx, NY 10459, USA</name>
+      <description>P(0.79) at 982 C Westchester Ave, Bronx, NY 10459, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.894545207147,40.82307520867399,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>900 Washington Ave, Bronx, NY 10451, USA</name>
+      <description>P(0.62) at 900 Washington Ave, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.9107565896682,40.823734483182506,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>600 Major Deegan Expy, Bronx, NY 10451, USA</name>
+      <description>P(0.84) at 600 Major Deegan Expy, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.93042962666861,40.82383471916913,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>600 Major Deegan Expy, Bronx, NY 10451, USA</name>
+      <description>P(0.85) at 600 Major Deegan Expy, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.9303873820608,40.823837978851856,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>231 E 161st St, Bronx, NY 10451, USA</name>
+      <description>P(0.38) at 231 E 161st St, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91974952106743,40.826736252818606,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>543 Ellsworth Ave, Bronx, NY 10465, USA</name>
+      <description>P(0.52) at 543 Ellsworth Ave, Bronx, NY 10465, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.815713515882,40.82579596472529,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>198 E 161st St, Bronx, NY 10451, USA</name>
+      <description>P(0.78) at 198 E 161st St, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92107374873255,40.82581351320749,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>198 E 161st St, Bronx, NY 10451, USA</name>
+      <description>P(0.80) at 198 E 161st St, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92108985950607,40.825784803658934,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>814 River Ave, Bronx, NY 10451, USA</name>
+      <description>P(0.70) at 814 River Ave, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92656699386684,40.826216326047245,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>814 River Ave, Bronx, NY 10451, USA</name>
+      <description>P(0.76) at 814 River Ave, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.9265512411685,40.82623707687871,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>231 E 161st St, Bronx, NY 10451, USA</name>
+      <description>P(0.68) at 231 E 161st St, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91975560807673,40.826705681570104,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>850 Walton Ave, Bronx, NY 10451, USA</name>
+      <description>P(0.81) at 850 Walton Ave, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.9239827806113,40.82643594578846,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>850 Walton Ave, Bronx, NY 10451, USA</name>
+      <description>P(0.84) at 850 Walton Ave, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92396652883058,40.82646931327986,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>231 E 161st St, Bronx, NY 10451, USA</name>
+      <description>P(0.81) at 231 E 161st St, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91973347553325,40.826704199902885,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1036 White Plains Rd, Bronx, NY 10472, USA</name>
+      <description>P(0.54) at 1036 White Plains Rd, Bronx, NY 10472, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.85969300098786,40.8271657622977,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>231 E 161st St, Bronx, NY 10451, USA</name>
+      <description>P(0.84) at 231 E 161st St, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91971862677423,40.82673549661439,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>217 E 161st St, Bronx, NY 10451, USA</name>
+      <description>P(0.78) at 217 E 161st St, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92026882908162,40.82694972621006,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>217 E 161st St, Bronx, NY 10451, USA</name>
+      <description>P(0.79) at 217 E 161st St, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92022689935793,40.8269359876338,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>231 E 161st St, Bronx, NY 10451, USA</name>
+      <description>P(0.86) at 231 E 161st St, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91970088382472,40.82676502908453,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>231 E 161st St, Bronx, NY 10451, USA</name>
+      <description>P(0.85) at 231 E 161st St, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91968184679357,40.82679616303095,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>775 Home St, Bronx, NY 10456, USA</name>
+      <description>P(0.35) at 775 Home St, Bronx, NY 10456, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90053296886258,40.82810851009671,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>217 E 161st St, Bronx, NY 10451, USA</name>
+      <description>P(0.81) at 217 E 161st St, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92020445725215,40.82697437762106,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>217 E 161st St, Bronx, NY 10451, USA</name>
+      <description>P(0.81) at 217 E 161st St, Bronx, NY 10451, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92024573474878,40.82698826581942,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1055 Webster Ave, Bronx, NY 10456, USA</name>
+      <description>P(0.34) at 1055 Webster Ave, Bronx, NY 10456, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91202219818346,40.82857836900931,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1197c Bryant Ave, Bronx, NY 10459, USA</name>
+      <description>P(0.39) at 1197c Bryant Ave, Bronx, NY 10459, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88913610740865,40.8288862612843,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1055 Webster Ave, Bronx, NY 10456, USA</name>
+      <description>P(0.57) at 1055 Webster Ave, Bronx, NY 10456, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91204774651492,40.82857235459987,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1170 Tinton Ave, Bronx, NY 10456, USA</name>
+      <description>P(0.68) at 1170 Tinton Ave, Bronx, NY 10456, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90050223489361,40.82817284574474,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1030 Grand Concourse, Bronx, NY 10456, USA</name>
+      <description>P(0.36) at 1030 Grand Concourse, Bronx, NY 10456, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92020104576027,40.830063684474844,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2340 Haviland Ave, Bronx, NY 10462, USA</name>
+      <description>P(0.43) at 2340 Haviland Ave, Bronx, NY 10462, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84621960221487,40.829933316625095,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1235 Franklin Ave, Bronx, NY 10456, USA</name>
+      <description>P(0.41) at 1235 Franklin Ave, Bronx, NY 10456, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90349266091498,40.830818561224866,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1030 Grand Concourse, Bronx, NY 10456, USA</name>
+      <description>P(0.78) at 1030 Grand Concourse, Bronx, NY 10456, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.920226961772,40.8300844603127,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1030 Grand Concourse, Bronx, NY 10456, USA</name>
+      <description>P(0.82) at 1030 Grand Concourse, Bronx, NY 10456, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92019812427002,40.830070981106175,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1281 Franklin Ave, Bronx, NY 10456, United States</name>
+      <description>P(0.80) at 1281 Franklin Ave, Bronx, NY 10456, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90262642258783,40.8315410701516,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1275 Franklin Ave, Bronx, NY 10456, USA</name>
+      <description>P(0.83) at 1275 Franklin Ave, Bronx, NY 10456, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90264964041869,40.831508079851545,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1339 Morrison Ave, Bronx, NY 10472, USA</name>
+      <description>P(0.37) at 1339 Morrison Ave, Bronx, NY 10472, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87504660540962,40.833279417761126,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1201 Seabury Ave, Bronx, NY 10462, USA</name>
+      <description>P(0.40) at 1201 Seabury Ave, Bronx, NY 10462, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84297271473663,40.83326108051426,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2337-2365 Waterbury Ave, Bronx, NY 10462, USA</name>
+      <description>P(0.46) at 2337-2365 Waterbury Ave, Bronx, NY 10462, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84655200758338,40.835129334392505,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2337-2365 Waterbury Ave, Bronx, NY 10462, USA</name>
+      <description>P(0.63) at 2337-2365 Waterbury Ave, Bronx, NY 10462, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8465559772208,40.83515875900849,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1409 Wood Rd, Bronx, NY 10462, USA</name>
+      <description>P(0.45) at 1409 Wood Rd, Bronx, NY 10462, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.86208743939669,40.83585024826965,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1315 Seabury Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.47) at 1315 Seabury Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84250006069912,40.835776051847446,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1409 Wood Rd, Bronx, NY 10462, USA</name>
+      <description>P(0.58) at 1409 Wood Rd, Bronx, NY 10462, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.86208701359969,40.835881634513086,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1315 Seabury Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.64) at 1315 Seabury Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84249990811718,40.83574978198381,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2115 Starling Ave, Bronx, NY 10462, USA</name>
+      <description>P(0.35) at 2115 Starling Ave, Bronx, NY 10462, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.85461830918125,40.836680108122394,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1225-1257 Gerard Ave, Bronx, NY 10452, USA</name>
+      <description>P(0.66) at 1225-1257 Gerard Ave, Bronx, NY 10452, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92019277031913,40.83624224113503,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1225-1257 Gerard Ave, Bronx, NY 10452, USA</name>
+      <description>P(0.80) at 1225-1257 Gerard Ave, Bronx, NY 10452, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92014954330357,40.83631493809686,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2115 Starling Ave, Bronx, NY 10462, USA</name>
+      <description>P(0.54) at 2115 Starling Ave, Bronx, NY 10462, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.85462356342309,40.83670587962007,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2115 Starling Ave, Bronx, NY 10462, USA</name>
+      <description>P(0.66) at 2115 Starling Ave, Bronx, NY 10462, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.85461624532176,40.83666847402001,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2417 Tratman Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.82) at 2417 Tratman Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84748592957912,40.83796694937183,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2417 Tratman Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.85) at 2417 Tratman Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84744560461336,40.8380025606019,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1325 Jerome Ave, Bronx, NY 10452, USA</name>
+      <description>P(0.77) at 1325 Jerome Ave, Bronx, NY 10452, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91923626860482,40.83865833175899,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1366 Cromwell Ave, Bronx, NY 10452, USA</name>
+      <description>P(0.40) at 1366 Cromwell Ave, Bronx, NY 10452, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91980962706106,40.839688621557116,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1325 Jerome Ave, Bronx, NY 10452, USA</name>
+      <description>P(0.80) at 1325 Jerome Ave, Bronx, NY 10452, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91925504626265,40.8386354546508,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1574-1598 Bathgate Ave, Bronx, NY 10457, USA</name>
+      <description>P(0.50) at 1574-1598 Bathgate Ave, Bronx, NY 10457, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90139764162477,40.83951418176605,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1044-1068 E Tremont Ave, Bronx, NY 10460, USA</name>
+      <description>P(0.69) at 1044-1068 E Tremont Ave, Bronx, NY 10460, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87985477438683,40.839102796709845,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1796 Prospect Ave, Bronx, NY 10457, USA</name>
+      <description>P(0.31) at 1796 Prospect Ave, Bronx, NY 10457, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89145057297632,40.84155669459311,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>85 Buckley St, Bronx, NY 10464-1650, United States</name>
+      <description>P(0.73) at 85 Buckley St, Bronx, NY 10464-1650, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.7847389249719,40.83995379814721,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3000 E Tremont Ave, Bronx, NY 10462, USA</name>
+      <description>P(0.75) at 3000 E Tremont Ave, Bronx, NY 10462, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83917562560775,40.84039640423835,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3000 E Tremont Ave, Bronx, NY 10462, USA</name>
+      <description>P(0.80) at 3000 E Tremont Ave, Bronx, NY 10462, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83926272529202,40.84040518600696,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2265-2267 E Tremont Ave, Bronx, NY 10462, USA</name>
+      <description>P(0.47) at 2265-2267 E Tremont Ave, Bronx, NY 10462, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.85570777855996,40.842560076155415,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1061 Bronx Park S, Bronx, NY 10460, United States</name>
+      <description>P(0.37) at 1061 Bronx Park S, Bronx, NY 10460, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87678292439709,40.84439221879474,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1440 Nelson Ave, Bronx, NY 10452, USA</name>
+      <description>P(0.79) at 1440 Nelson Ave, Bronx, NY 10452, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92119644982024,40.84347997764313,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1440 Nelson Ave, Bronx, NY 10452, USA</name>
+      <description>P(0.78) at 1440 Nelson Ave, Bronx, NY 10452, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92115484910697,40.843538017207905,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1650 Grand Concourse, Bronx, NY 10457, USA</name>
+      <description>P(0.76) at 1650 Grand Concourse, Bronx, NY 10457, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91117467678832,40.843609978199765,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1650 Grand Concourse, Bronx, NY 10457, USA</name>
+      <description>P(0.76) at 1650 Grand Concourse, Bronx, NY 10457, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91122087004554,40.84361085714609,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1945 Prospect Ave, Bronx, NY 10457, USA</name>
+      <description>P(0.66) at 1945 Prospect Ave, Bronx, NY 10457, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88974834153764,40.844037132949964,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3060 Middletown Rd, Bronx, NY 10461, United States</name>
+      <description>P(0.42) at 3060 Middletown Rd, Bronx, NY 10461, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.82790040708635,40.84444471922303,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1515 Kennellworth Pl, Bronx, NY 10465, USA</name>
+      <description>P(0.32) at 1515 Kennellworth Pl, Bronx, NY 10465, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.82279135812261,40.844718130932,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NY, United States</name>
+      <description>P(0.51) at NY, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.79441791340632,40.84410842085585,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1061 Bronx Park S, Bronx, NY 10460, United States</name>
+      <description>P(0.53) at 1061 Bronx Park S, Bronx, NY 10460, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87677650337018,40.844500465671274,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1061 Bronx Park S, Bronx, NY 10460, United States</name>
+      <description>P(0.53) at 1061 Bronx Park S, Bronx, NY 10460, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8767694542377,40.844521282301194,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1945 Prospect Ave, Bronx, NY 10457, USA</name>
+      <description>P(0.76) at 1945 Prospect Ave, Bronx, NY 10457, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8897313238288,40.84405783591535,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2150 Boston Rd, Bronx, NY 10460, USA</name>
+      <description>P(0.63) at 2150 Boston Rd, Bronx, NY 10460, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87680950366068,40.844365402021474,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1061 Bronx Park S, Bronx, NY 10460, United States</name>
+      <description>P(0.63) at 1061 Bronx Park S, Bronx, NY 10460, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.876763012696,40.84454355045115,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1061 Bronx Park S, Bronx, NY 10460, United States</name>
+      <description>P(0.72) at 1061 Bronx Park S, Bronx, NY 10460, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8767814683586,40.84448175577998,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1685 Waters Pl, Bronx, NY 10461, USA</name>
+      <description>P(0.64) at 1685 Waters Pl, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84361819107589,40.846784653124644,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3009 Westchester Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.34) at 3009 Westchester Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83186706380847,40.84773924833871,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1780 Eastchester Rd, Bronx, NY 10461, USA</name>
+      <description>P(0.32) at 1780 Eastchester Rd, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8440176559083,40.84818334784871,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1300 Waters Pl, Bronx, NY 10461, USA</name>
+      <description>P(0.84) at 1300 Waters Pl, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83889949518043,40.846797502618884,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1300 Waters Pl, Bronx, NY 10461, USA</name>
+      <description>P(0.84) at 1300 Waters Pl, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83889936104133,40.846832303680536,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1805 Hutchinson River Pkwy E, Bronx, NY 10461, United States</name>
+      <description>P(0.74) at 1805 Hutchinson River Pkwy E, Bronx, NY 10461, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83884165007252,40.847568052134406,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1831 Radcliff Ave, Bronx, NY 10462-3706, United States</name>
+      <description>P(0.44) at 1831 Radcliff Ave, Bronx, NY 10462-3706, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.85825716642493,40.84858123022248,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1803 Hutchinson River Pkwy E, Bronx, NY 10461, United States</name>
+      <description>P(0.80) at 1803 Hutchinson River Pkwy E, Bronx, NY 10461, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83888093246746,40.84757045566684,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1805 Hutchinson River Pkwy E, Bronx, NY 10461, United States</name>
+      <description>P(0.82) at 1805 Hutchinson River Pkwy E, Bronx, NY 10461, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83879936458861,40.847563785249875,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1831 Radcliff Ave, Bronx, NY 10462-3706, United States</name>
+      <description>P(0.50) at 1831 Radcliff Ave, Bronx, NY 10462-3706, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.85819220790317,40.84861260982017,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1190 Pierce Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.78) at 1190 Pierce Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84640207944054,40.847994387421416,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1190 Pierce Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.84) at 1190 Pierce Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84644458892062,40.84804224265886,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1190 Pierce Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.86) at 1190 Pierce Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84641417014272,40.847993625982284,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1190 Pierce Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.85) at 1190 Pierce Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.846481893301,40.84808950501409,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1780 Eastchester Rd, Bronx, NY 10461, USA</name>
+      <description>P(0.82) at 1780 Eastchester Rd, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84404144866487,40.84817625431306,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1780 Eastchester Rd, Bronx, NY 10461, USA</name>
+      <description>P(0.82) at 1780 Eastchester Rd, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84399275855053,40.84818879119736,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1740 Bassett Ave, Bronx, NY 10461-2323, United States</name>
+      <description>P(0.84) at 1740 Bassett Ave, Bronx, NY 10461-2323, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84394380624592,40.848203591830654,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1908 Jerome Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.32) at 1908 Jerome Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91002032351295,40.850403427242995,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1600 Tenbroeck Ave, Bronx, NY 10461, United States</name>
+      <description>P(0.74) at 1600 Tenbroeck Ave, Bronx, NY 10461, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84655538346856,40.84900560980056,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1600 Tenbroeck Ave, Bronx, NY 10461, United States</name>
+      <description>P(0.77) at 1600 Tenbroeck Ave, Bronx, NY 10461, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84655675969888,40.84903932622586,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1608 Tenbroeck Ave, Bronx, NY 10461, United States</name>
+      <description>P(0.80) at 1608 Tenbroeck Ave, Bronx, NY 10461, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84655785281488,40.84906615413726,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1600 Tenbroeck Ave, Bronx, NY 10461, United States</name>
+      <description>P(0.85) at 1600 Tenbroeck Ave, Bronx, NY 10461, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84655632740468,40.8490123358464,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1939 Pilgrim Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.30) at 1939 Pilgrim Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83347164842853,40.85071961487172,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>453-457 City Island Ave, Bronx, NY 10464, USA</name>
+      <description>P(0.30) at 453-457 City Island Ave, Bronx, NY 10464, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.79228782589898,40.85082159842965,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1825 Sackett Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.76) at 1825 Sackett Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84584642274994,40.849881201637544,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1825 Sackett Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.75) at 1825 Sackett Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84584903621139,40.84994633490504,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1825 Sackett Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.79) at 1825 Sackett Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84584812862379,40.84986081168123,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1859 Eastchester Rd, Bronx, NY 10461, USA</name>
+      <description>P(0.38) at 1859 Eastchester Rd, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8448957647784,40.85104256892802,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1825 Sackett Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.80) at 1825 Sackett Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84584852643677,40.849918289207096,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1859 Eastchester Rd, Bronx, NY 10461, USA</name>
+      <description>P(0.41) at 1859 Eastchester Rd, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84489675670174,40.851056000649024,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1859 Eastchester Rd, Bronx, NY 10461, USA</name>
+      <description>P(0.43) at 1859 Eastchester Rd, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84489593160815,40.85102747551063,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1859 Eastchester Rd, Bronx, NY 10461, USA</name>
+      <description>P(0.47) at 1859 Eastchester Rd, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84489683395195,40.85101031092235,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1000 Waters Pl, Bronx, NY 10461-2700, United States</name>
+      <description>P(0.85) at 1000 Waters Pl, Bronx, NY 10461-2700, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83850922892911,40.85023827971177,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1300 Morris Park Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.76) at 1300 Morris Park Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8457432643849,40.85057153562114,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1859 Eastchester Rd, Bronx, NY 10461, USA</name>
+      <description>P(0.66) at 1859 Eastchester Rd, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84489930534464,40.85098897987828,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1300 Morris Park Ave, Bronx, NY 10461, United States</name>
+      <description>P(0.80) at 1300 Morris Park Ave, Bronx, NY 10461, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84560608221527,40.8505721595416,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1230 Morris Park Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.79) at 1230 Morris Park Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8464771366835,40.85063605092708,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1230 Morris Park Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.78) at 1230 Morris Park Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84647488015894,40.85067878986826,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1845 Eastchester Rd, Bronx, NY 10461, USA</name>
+      <description>P(0.83) at 1845 Eastchester Rd, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84512260064689,40.85055300033847,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1859 Eastchester Rd, Bronx, NY 10461, USA</name>
+      <description>P(0.68) at 1859 Eastchester Rd, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84489788716387,40.85107220748877,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1845 Eastchester Rd, Bronx, NY 10461, USA</name>
+      <description>P(0.85) at 1845 Eastchester Rd, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84511009332691,40.85058341509636,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1300 Morris Park Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.86) at 1300 Morris Park Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84567627622907,40.850572823967696,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1230 Morris Park Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.85) at 1230 Morris Park Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84659499118406,40.85063399872813,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1230 Morris Park Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.86) at 1230 Morris Park Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84659306790972,40.85067974284597,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1835 University Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.74) at 1835 University Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91510611173935,40.85154287111768,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2300 Southern Blvd, Bronx, NY 10460, United States</name>
+      <description>P(0.68) at 2300 Southern Blvd, Bronx, NY 10460, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87565142936374,40.852077427175324,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1225a Morris Park Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.50) at 1225a Morris Park Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84632145302106,40.8527235549651,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1301 Morris Park Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.76) at 1301 Morris Park Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84576184244558,40.852013468497034,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>230 W Tremont Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.59) at 230 W Tremont Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91909064012275,40.852933893643545,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>230 W Tremont Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.55) at 230 W Tremont Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91923802034277,40.85305126397843,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1301 Morris Park Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.81) at 1301 Morris Park Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84576180282288,40.8519671277657,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1301 Morris Park Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.84) at 1301 Morris Park Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84576349467913,40.85192608508621,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1301 Morris Park Ave, Bronx, NY 10461, USA</name>
+      <description>P(0.81) at 1301 Morris Park Ave, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84576140227288,40.85205166575766,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1925 Eastchester Rd, Bronx, NY 10461, USA</name>
+      <description>P(0.77) at 1925 Eastchester Rd, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84438306383622,40.85217884239202,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1925 Eastchester Rd, Bronx, NY 10461, USA</name>
+      <description>P(0.80) at 1925 Eastchester Rd, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84433828311948,40.85217932730872,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>230 W Tremont Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.68) at 230 W Tremont Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91911394868423,40.85294660561911,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>275 Harlem River Pk Brg, Bronx, NY 10453, USA</name>
+      <description>P(0.76) at 275 Harlem River Pk Brg, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92096395595608,40.85273728244037,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>230 W Tremont Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.70) at 230 W Tremont Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91913762520737,40.852921825080145,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>275 Harlem River Pk Brg, Bronx, NY 10453, USA</name>
+      <description>P(0.78) at 275 Harlem River Pk Brg, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92093250732039,40.85271742112715,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>230 W Tremont Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.71) at 230 W Tremont Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91916351520472,40.85293598608824,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1925 Eastchester Rd, Bronx, NY 10461, USA</name>
+      <description>P(0.81) at 1925 Eastchester Rd, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84438294693773,40.85224163321968,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>230 W Tremont Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.70) at 230 W Tremont Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91911043328825,40.852992431862035,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>13 Rodmans Neck, Bronx, NY 10464, United States</name>
+      <description>P(0.35) at 13 Rodmans Neck, Bronx, NY 10464, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.7998037750804,40.85329095121806,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1925 Eastchester Rd, Bronx, NY 10461, USA</name>
+      <description>P(0.82) at 1925 Eastchester Rd, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84433878938971,40.85224236587605,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>230 W Tremont Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.72) at 230 W Tremont Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.919085699793,40.852975298089234,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>230 W Tremont Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.70) at 230 W Tremont Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91911369923257,40.85303071544311,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>230 W Tremont Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.75) at 230 W Tremont Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91911504563716,40.852906887744965,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>230 W Tremont Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.73) at 230 W Tremont Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91913948729545,40.85296119511075,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>230 W Tremont Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.72) at 230 W Tremont Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91913688590755,40.85300342793568,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>230 W Tremont Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.72) at 230 W Tremont Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91908706740303,40.85301637845269,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>230 W Tremont Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.74) at 230 W Tremont Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.9190602409132,40.85299957722708,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>230 W Tremont Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.77) at 230 W Tremont Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91918741071429,40.85294954459819,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>230 W Tremont Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.73) at 230 W Tremont Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.919214182336,40.85307470682896,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>230 W Tremont Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.78) at 230 W Tremont Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91916549552143,40.852973698023774,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1250 Waters Pl, Bronx, NY 10461, USA</name>
+      <description>P(0.75) at 1250 Waters Pl, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8393565196531,40.85279857106953,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4418-4428 Third Ave, Bronx, NY 10457, USA</name>
+      <description>P(0.84) at 4418-4428 Third Ave, Bronx, NY 10457, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89102648827297,40.852896736237966,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4418-4428 Third Ave, Bronx, NY 10457, USA</name>
+      <description>P(0.85) at 4418-4428 Third Ave, Bronx, NY 10457, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89099827542331,40.85292707510813,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4422 3rd Ave, Bronx, NY 10457-2544, United States</name>
+      <description>P(0.86) at 4422 3rd Ave, Bronx, NY 10457-2544, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89096639349582,40.85296303019058,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2175 Quarry Rd, Bronx, NY 10457, USA</name>
+      <description>P(0.86) at 2175 Quarry Rd, Bronx, NY 10457, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8909382403488,40.852992341383356,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2265 Bathgate Ave, Bronx, NY 10457, USA</name>
+      <description>P(0.53) at 2265 Bathgate Ave, Bronx, NY 10457, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89228249438297,40.853928205080535,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2175 Quarry Rd, Bronx, NY 10457, USA</name>
+      <description>P(0.85) at 2175 Quarry Rd, Bronx, NY 10457, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89090652842292,40.853028438773876,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1250 Waters Pl, Bronx, NY 10461, USA</name>
+      <description>P(0.85) at 1250 Waters Pl, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8394042880855,40.852743841123406,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2175 Quarry Rd, Bronx, NY 10457, USA</name>
+      <description>P(0.87) at 2175 Quarry Rd, Bronx, NY 10457, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89088006797628,40.85305728186853,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1250 Waters Pl, Bronx, NY 10461, USA</name>
+      <description>P(0.84) at 1250 Waters Pl, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83868786854741,40.853010569662274,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1250 Waters Pl, Bronx, NY 10461, USA</name>
+      <description>P(0.85) at 1250 Waters Pl, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83881836885557,40.85307988624125,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1250 Waters Pl, Bronx, NY 10461, USA</name>
+      <description>P(0.86) at 1250 Waters Pl, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83875314466472,40.85304573197034,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2225 Webster Ave, Bronx, NY 10457, USA</name>
+      <description>P(0.45) at 2225 Webster Ave, Bronx, NY 10457, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89710233248984,40.854570348972054,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2225 Webster Ave, Bronx, NY 10457, USA</name>
+      <description>P(0.53) at 2225 Webster Ave, Bronx, NY 10457, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89708922098116,40.85454484335992,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1410 Pelham Pkwy N, Bronx, NY 10461, USA</name>
+      <description>P(0.51) at 1410 Pelham Pkwy N, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84750662703247,40.85545841358648,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1410 Pelham Pkwy N, Bronx, NY 10461, USA</name>
+      <description>P(0.52) at 1410 Pelham Pkwy N, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8475087893476,40.85548605504485,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>652-658 City Island Ave, Bronx, NY 10464, USA</name>
+      <description>P(0.48) at 652-658 City Island Ave, Bronx, NY 10464, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.79092305530484,40.85580365454191,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1400 Pelham Pkwy S, Bronx, NY 10461, USA</name>
+      <description>P(0.43) at 1400 Pelham Pkwy S, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8475687584269,40.856323987789736,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1410 Pelham Pkwy N, Bronx, NY 10461, USA</name>
+      <description>P(0.74) at 1410 Pelham Pkwy N, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8475078573827,40.855554650931666,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1410 Pelham Pkwy N, Bronx, NY 10461, USA</name>
+      <description>P(0.76) at 1410 Pelham Pkwy N, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8475076909878,40.85558667538949,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>350 Marconi St, Bronx, NY 10461, USA</name>
+      <description>P(0.85) at 350 Marconi St, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83581665156548,40.85544281245637,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>350 Marconi St, Bronx, NY 10461, USA</name>
+      <description>P(0.85) at 350 Marconi St, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83584711208918,40.855488079918274,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>350 Marconi St, Bronx, NY 10461, USA</name>
+      <description>P(0.86) at 350 Marconi St, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8358661484073,40.8555197493299,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1920 Seminole Ave, Bronx, NY 10461, United States</name>
+      <description>P(0.70) at 1920 Seminole Ave, Bronx, NY 10461, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84819328999065,40.85604962558732,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1400 Pelham Pkwy S, Bronx, NY 10461, USA</name>
+      <description>P(0.66) at 1400 Pelham Pkwy S, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84762374323081,40.85629129847886,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2272 Morris Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.30) at 2272 Morris Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.9018699913003,40.85771644936095,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1400 Pelham Pkwy S, Bronx, NY 10461, USA</name>
+      <description>P(0.78) at 1400 Pelham Pkwy S, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84774617368059,40.85633781773572,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1400 Pelham Pkwy S, Bronx, NY 10461, United States</name>
+      <description>P(0.75) at 1400 Pelham Pkwy S, Bronx, NY 10461, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84657017422278,40.85642006014221,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2075 Dr M.L.K. Jr Blvd, Bronx, NY 10453, USA</name>
+      <description>P(0.79) at 2075 Dr M.L.K. Jr Blvd, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91209682633352,40.85671255195509,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2075 Dr M.L.K. Jr Blvd, Bronx, NY 10453, USA</name>
+      <description>P(0.80) at 2075 Dr M.L.K. Jr Blvd, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91204758306166,40.85669685982652,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2151 University Ave, Bronx, NY 10453, USA</name>
+      <description>P(0.46) at 2151 University Ave, Bronx, NY 10453, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91042766990317,40.85770815157157,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1400 Pelham Pkwy S, Bronx, NY 10461, United States</name>
+      <description>P(0.80) at 1400 Pelham Pkwy S, Bronx, NY 10461, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84661601536486,40.85641928344384,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1400 Pelham Pkwy S, Bronx, NY 10461, USA</name>
+      <description>P(0.85) at 1400 Pelham Pkwy S, Bronx, NY 10461, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84774565190916,40.85631385258152,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2540 Belmont Ave, Bronx, NY 10458, United States</name>
+      <description>P(0.76) at 2540 Belmont Ave, Bronx, NY 10458, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88291046076851,40.85833580206095,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>575 E 191st St, Bronx, NY 10458, USA</name>
+      <description>P(0.31) at 575 E 191st St, Bronx, NY 10458, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.884989847487,40.85964033042566,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2540 Belmont Ave, Bronx, NY 10458, United States</name>
+      <description>P(0.78) at 2540 Belmont Ave, Bronx, NY 10458, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88289619562265,40.85835046763525,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>269 E 188th St, Bronx, NY 10458, USA</name>
+      <description>P(0.32) at 269 E 188th St, Bronx, NY 10458, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89593552867659,40.860606430860486,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>444 E Fordham Rd, Bronx, NY 10458, USA</name>
+      <description>P(0.78) at 444 E Fordham Rd, Bronx, NY 10458, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89013914336054,40.860701943281015,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1 Fordham Plaza, Bronx, NY 10458, USA</name>
+      <description>P(0.81) at 1 Fordham Plaza, Bronx, NY 10458, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89015125268848,40.86074291647718,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>410 E Fordham Rd, Bronx, NY 10458, USA</name>
+      <description>P(0.77) at 410 E Fordham Rd, Bronx, NY 10458, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8916770330814,40.86100009900149,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>410 E Fordham Rd, Bronx, NY 10458, USA</name>
+      <description>P(0.78) at 410 E Fordham Rd, Bronx, NY 10458, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89170503720202,40.8609736631891,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>428 E Fordham Rd, Bronx, NY 10458, United States</name>
+      <description>P(0.68) at 428 E Fordham Rd, Bronx, NY 10458, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88959607442352,40.86138719948768,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>428 E Fordham Rd, Bronx, NY 10458, United States</name>
+      <description>P(0.74) at 428 E Fordham Rd, Bronx, NY 10458, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88957804752515,40.86140561583379,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>428 E Fordham Rd, Bronx, NY 10458, United States</name>
+      <description>P(0.79) at 428 E Fordham Rd, Bronx, NY 10458, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88964429896468,40.86133557147136,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>428 E Fordham Rd, Bronx, NY 10458, United States</name>
+      <description>P(0.81) at 428 E Fordham Rd, Bronx, NY 10458, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88962713744768,40.861355272804005,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2551 Webster Ave, Bronx, NY 10458, USA</name>
+      <description>P(0.77) at 2551 Webster Ave, Bronx, NY 10458, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89094247345547,40.862467040005285,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2551 Webster Ave, Bronx, NY 10458, USA</name>
+      <description>P(0.81) at 2551 Webster Ave, Bronx, NY 10458, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8909651503814,40.86244816189122,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2501 Valentine Ave, Bronx, NY 10458, USA</name>
+      <description>P(0.77) at 2501 Valentine Ave, Bronx, NY 10458, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89597302735915,40.8627220765421,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bronx, NY 10464, United States</name>
+      <description>P(0.70) at Bronx, NY 10464, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.7935889501454,40.862507507734925,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>457 E Fordham Rd, Bronx, NY 10458, USA</name>
+      <description>P(0.76) at 457 E Fordham Rd, Bronx, NY 10458, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88426270866425,40.86289041964688,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2870 Southern Blvd, Bronx, NY 10458, USA</name>
+      <description>P(0.32) at 2870 Southern Blvd, Bronx, NY 10458, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88555445986658,40.864144710719145,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>457 E Fordham Rd, Bronx, NY 10458, USA</name>
+      <description>P(0.80) at 457 E Fordham Rd, Bronx, NY 10458, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88433133099447,40.86285825179502,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>457 E Fordham Rd, Bronx, NY 10458, USA</name>
+      <description>P(0.80) at 457 E Fordham Rd, Bronx, NY 10458, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88429688415549,40.862873249016175,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>465 E Fordham Rd, Bronx, NY 10458, USA</name>
+      <description>P(0.80) at 465 E Fordham Rd, Bronx, NY 10458, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88423060081827,40.86290787360356,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2500 Creston Ave, Bronx, NY 10468, USA</name>
+      <description>P(0.84) at 2500 Creston Ave, Bronx, NY 10468, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89764996575018,40.86294879289122,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2500 Creston Ave, Bronx, NY 10468, USA</name>
+      <description>P(0.86) at 2500 Creston Ave, Bronx, NY 10468, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8976858049346,40.862963949201884,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2502 Davidson Ave, Bronx, NY 10468, USA</name>
+      <description>P(0.63) at 2502 Davidson Ave, Bronx, NY 10468, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90053401015443,40.86420516577127,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>272 Baychester Ave, Bronx, NY 10475, USA</name>
+      <description>P(0.52) at 272 Baychester Ave, Bronx, NY 10475, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.82852070950825,40.86439078992825,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>346 Baychester Ave, Bronx, NY 10475, United States</name>
+      <description>P(0.30) at 346 Baychester Ave, Bronx, NY 10475, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83011766379163,40.867334642726824,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2323 Sedgwick Ave, Bronx, NY 10468, United States</name>
+      <description>P(0.83) at 2323 Sedgwick Ave, Bronx, NY 10468, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90683355096535,40.86632296521292,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2323 Sedgwick Ave, Bronx, NY 10468, United States</name>
+      <description>P(0.85) at 2323 Sedgwick Ave, Bronx, NY 10468, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90688731649497,40.86633434980283,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2499 Sedgwick Ave, Bronx, NY 10468, USA</name>
+      <description>P(0.84) at 2499 Sedgwick Ave, Bronx, NY 10468, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.9070526411961,40.86637189156642,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2323 Sedgwick Ave, Bronx, NY 10468, United States</name>
+      <description>P(0.86) at 2323 Sedgwick Ave, Bronx, NY 10468, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90678566658089,40.86631151598479,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2499 Sedgwick Ave, Bronx, NY 10468, USA</name>
+      <description>P(0.85) at 2499 Sedgwick Ave, Bronx, NY 10468, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90710757161791,40.86638393378816,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2323 Sedgwick Ave, Bronx, NY 10468, United States</name>
+      <description>P(0.87) at 2323 Sedgwick Ave, Bronx, NY 10468, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90692997595174,40.86634653275473,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2499 Sedgwick Ave, Bronx, NY 10468, USA</name>
+      <description>P(0.87) at 2499 Sedgwick Ave, Bronx, NY 10468, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.9070053793153,40.86636157653324,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2499 Sedgwick Ave, Bronx, NY 10468, USA</name>
+      <description>P(0.85) at 2499 Sedgwick Ave, Bronx, NY 10468, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90714908787395,40.866394335513064,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2823 Tiemann Ave, Bronx, NY 10469-3413, United States</name>
+      <description>P(0.50) at 2823 Tiemann Ave, Bronx, NY 10469-3413, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83892396743185,40.86742011594975,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2670 Southern Blvd, Bronx, NY 10458, USA</name>
+      <description>P(0.78) at 2670 Southern Blvd, Bronx, NY 10458, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87870375279071,40.86709099102124,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2547 University Ave, Bronx, NY 10468, USA</name>
+      <description>P(0.84) at 2547 University Ave, Bronx, NY 10468, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90242351246393,40.86711614201414,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2670 Southern Blvd, Bronx, NY 10458, USA</name>
+      <description>P(0.81) at 2670 Southern Blvd, Bronx, NY 10458, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87865563441743,40.86711187863813,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2547 University Ave, Bronx, NY 10468, USA</name>
+      <description>P(0.84) at 2547 University Ave, Bronx, NY 10468, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90240230339423,40.86714318878963,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2570 Webb Ave, Bronx, NY 10468, USA</name>
+      <description>P(0.60) at 2570 Webb Ave, Bronx, NY 10468, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90221881215602,40.86839682514453,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2100 Bartow Ave, Bronx, NY 10475, USA</name>
+      <description>P(0.83) at 2100 Bartow Ave, Bronx, NY 10475, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.82458880944448,40.86820077218402,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2100 Bartow Ave, Bronx, NY 10475, USA</name>
+      <description>P(0.83) at 2100 Bartow Ave, Bronx, NY 10475, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.82456090482826,40.86823059008709,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>P(0.72) at  </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.82407004793713,40.86959578936015,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>P(0.78) at  </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.82395630422188,40.869573197610634,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2191 Bartow Ave, Bronx, NY 10475, USA</name>
+      <description>P(0.81) at 2191 Bartow Ave, Bronx, NY 10475, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.82384356496395,40.869556603851095,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2049 Bartow Ave, Bronx, NY 10475, USA</name>
+      <description>P(0.58) at 2049 Bartow Ave, Bronx, NY 10475, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.82943241564924,40.8705919534752,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3218-3222 Yates Ave, Bronx, NY 10469, USA</name>
+      <description>P(0.32) at 3218-3222 Yates Ave, Bronx, NY 10469, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.85416859118912,40.872050286492936,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>146 Alcott Pl, Bronx, NY 10475, United States</name>
+      <description>P(0.30) at 146 Alcott Pl, Bronx, NY 10475, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83127248168925,40.87348898667746,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>146 Alcott Pl, Bronx, NY 10475, United States</name>
+      <description>P(0.37) at 146 Alcott Pl, Bronx, NY 10475, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83131510523235,40.87349176688261,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>436 East 149th Street, Bronx, NY 10455, USA</name>
+      <description>P(0.86) at 436 East 149th Street, Bronx, NY 10455, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89313187073462,40.873593263296215,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>436 East 149th Street, Bronx, NY 10455, USA</name>
+      <description>P(0.81) at 436 East 149th Street, Bronx, NY 10455, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89303558505439,40.87371876482203,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>436 East 149th Street, Bronx, NY 10455, USA</name>
+      <description>P(0.83) at 436 East 149th Street, Bronx, NY 10455, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89306341753631,40.87368322721031,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>436 East 149th Street, Bronx, NY 10455, USA</name>
+      <description>P(0.88) at 436 East 149th Street, Bronx, NY 10455, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89310715266383,40.87363212793454,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>436 East 149th Street, Bronx, NY 10455, USA</name>
+      <description>P(0.84) at 436 East 149th Street, Bronx, NY 10455, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89302533080574,40.87380784883377,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3232 Webster Ave, Bronx, NY 10467-4903, United States</name>
+      <description>P(0.47) at 3232 Webster Ave, Bronx, NY 10467-4903, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87300027121505,40.874983092831776,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3254-3354 Parkside Pl, Bronx, NY 10467, USA</name>
+      <description>P(0.46) at 3254-3354 Parkside Pl, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87296307503611,40.87501866008367,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3254-3354 Parkside Pl, Bronx, NY 10467, USA</name>
+      <description>P(0.47) at 3254-3354 Parkside Pl, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87298002695438,40.87500267704476,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>P(0.78) at  </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83286764861388,40.87412326493501,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>750 Baychester Ave, Bronx, NY 10475, United States</name>
+      <description>P(0.82) at 750 Baychester Ave, Bronx, NY 10475, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83283222540392,40.87412350904551,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>P(0.79) at  </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83286737767541,40.874349995847226,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>750 Baychester Ave, Bronx, NY 10475, United States</name>
+      <description>P(0.82) at 750 Baychester Ave, Bronx, NY 10475, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8328317686301,40.87435041972702,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3256 Hull Ave, Bronx, NY 10467, USA</name>
+      <description>P(0.58) at 3256 Hull Ave, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87507195191851,40.87560926449045,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3256 Hull Ave, Bronx, NY 10467, USA</name>
+      <description>P(0.66) at 3256 Hull Ave, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87504534666611,40.8756435407238,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3256 Hull Ave, Bronx, NY 10467, USA</name>
+      <description>P(0.69) at 3256 Hull Ave, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8750323547162,40.87566352327546,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3256 Hull Ave, Bronx, NY 10467, USA</name>
+      <description>P(0.72) at 3256 Hull Ave, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87505806488939,40.8756266103331,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3 Pelham Bay Rd, Bronx, NY 10464, United States</name>
+      <description>P(0.32) at 3 Pelham Bay Rd, Bronx, NY 10464, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.81867335378892,40.87658038078874,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>147 Dreiser Loop, Bronx, NY 10475, USA</name>
+      <description>P(0.52) at 147 Dreiser Loop, Bronx, NY 10475, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8292328681603,40.87638588701677,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3 Pelham Bay Park W, Bronx, NY 10465, USA</name>
+      <description>P(0.30) at 3 Pelham Bay Park W, Bronx, NY 10465, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.81002159667212,40.87689992886307,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>760 E 214th St, Bronx, NY 10467-6178, United States</name>
+      <description>P(0.40) at 760 E 214th St, Bronx, NY 10467-6178, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8627264124622,40.87905084267419,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>701 Co Op City Blvd, Bronx, NY 10464, United States</name>
+      <description>P(0.68) at 701 Co Op City Blvd, Bronx, NY 10464, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.82030645678064,40.87879699808349,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>P(0.51) at  </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91902174964223,40.880351117946496,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2280 Givan Ave, Bronx, NY 10475, United States</name>
+      <description>P(0.40) at 2280 Givan Ave, Bronx, NY 10475, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.82432098280042,40.88058210774237,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>206 E Gun Hill Rd, Bronx, NY 10467, USA</name>
+      <description>P(0.78) at 206 E Gun Hill Rd, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87715514908017,40.879889627206936,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>206 E Gun Hill Rd, Bronx, NY 10467, USA</name>
+      <description>P(0.83) at 206 E Gun Hill Rd, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87716924054097,40.879853200907675,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3484 Bainbridge Ave, Bronx, NY 10467, USA</name>
+      <description>P(0.68) at 3484 Bainbridge Ave, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87819307659178,40.880714915801846,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>111 E 210th St, Bronx, NY 10467, USA</name>
+      <description>P(0.80) at 111 E 210th St, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88048628459096,40.8804451346472,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3424 Kossuth Ave, Bronx, NY 10467, USA</name>
+      <description>P(0.83) at 3424 Kossuth Ave, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88106746175303,40.880421890704966,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3424 Kossuth Ave, Bronx, NY 10467, USA</name>
+      <description>P(0.81) at 3424 Kossuth Ave, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88047071401893,40.88048814450464,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3424 Kossuth Ave, Bronx, NY 10467, USA</name>
+      <description>P(0.84) at 3424 Kossuth Ave, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88104543347303,40.88048440103759,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3424 Kossuth Ave, Bronx, NY 10467, USA</name>
+      <description>P(0.83) at 3424 Kossuth Ave, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88102544741223,40.88054883393998,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3424 Kossuth Ave, Bronx, NY 10467, USA</name>
+      <description>P(0.83) at 3424 Kossuth Ave, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88100515250407,40.88061245994114,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3424 Kossuth Ave, Bronx, NY 10467, USA</name>
+      <description>P(0.83) at 3424 Kossuth Ave, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88098406452791,40.88067731818984,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>110 E Gun Hill Rd, Bronx, NY 10467, USA</name>
+      <description>P(0.69) at 110 E Gun Hill Rd, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87944505847763,40.88108478574909,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>110 E Gun Hill Rd, Bronx, NY 10467, USA</name>
+      <description>P(0.81) at 110 E Gun Hill Rd, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87932135741544,40.88104887473647,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>110 E Gun Hill Rd, Bronx, NY 10467, USA</name>
+      <description>P(0.81) at 110 E Gun Hill Rd, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87945458179097,40.88105516681,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3444 Rochambeau Ave, Bronx, NY 10467, United States</name>
+      <description>P(0.73) at 3444 Rochambeau Ave, Bronx, NY 10467, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88025578937764,40.88132166712875,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>110 E Gun Hill Rd, Bronx, NY 10467, USA</name>
+      <description>P(0.84) at 110 E Gun Hill Rd, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87928030102834,40.88104601992447,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>P(0.85) at  </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87917468301161,40.88102651633061,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>110 E Gun Hill Rd, Bronx, NY 10467, USA</name>
+      <description>P(0.85) at 110 E Gun Hill Rd, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87921654402867,40.88103307627597,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>110 E Gun Hill Rd, Bronx, NY 10467, USA</name>
+      <description>P(0.81) at 110 E Gun Hill Rd, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87940381090907,40.881145046552376,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>110 E Gun Hill Rd, Bronx, NY 10467, USA</name>
+      <description>P(0.81) at 110 E Gun Hill Rd, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87943801602141,40.88115196670459,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>100 E Gun Hill Rd, Bronx, NY 10467, USA</name>
+      <description>P(0.83) at 100 E Gun Hill Rd, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88010746398088,40.881293542888486,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>100 E Gun Hill Rd, Bronx, NY 10467, USA</name>
+      <description>P(0.83) at 100 E Gun Hill Rd, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88015902176612,40.88130082157684,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>100 E Gun Hill Rd, Bronx, NY 10467, USA</name>
+      <description>P(0.83) at 100 E Gun Hill Rd, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88020917876467,40.881310930796104,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2621 Palisade Ave, Bronx, NY 10463, United States</name>
+      <description>P(0.66) at 2621 Palisade Ave, Bronx, NY 10463, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.9213019294261,40.882567585322136,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>56 Van Cortlandt Ave W, Bronx, NY 10463, USA</name>
+      <description>P(0.44) at 56 Van Cortlandt Ave W, Bronx, NY 10463, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.89322419514194,40.88315755499311,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>171 W 236th St, Bronx, NY 10463, USA</name>
+      <description>P(0.43) at 171 W 236th St, Bronx, NY 10463, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.9001646257389,40.88338335790115,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2621 Palisade Ave, Bronx, NY 10463, United States</name>
+      <description>P(0.76) at 2621 Palisade Ave, Bronx, NY 10463, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.92131318973078,40.88259258420541,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3977 Sedgwick Ave, Bronx, NY 10463, USA</name>
+      <description>P(0.41) at 3977 Sedgwick Ave, Bronx, NY 10463, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88880025610028,40.883664286654295,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3333 Henry Hudson Pkwy, Bronx, NY 10463, United States</name>
+      <description>P(0.33) at 3333 Henry Hudson Pkwy, Bronx, NY 10463, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91490804336198,40.884876646614785,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3320 Henry Hudson Parkway East, Bronx, NY 10463, USA</name>
+      <description>P(0.40) at 3320 Henry Hudson Parkway East, Bronx, NY 10463, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91376709240426,40.8847045351214,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3320 Henry Hudson Parkway East, Bronx, NY 10463, USA</name>
+      <description>P(0.41) at 3320 Henry Hudson Parkway East, Bronx, NY 10463, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91373937431403,40.884701096003525,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3977 Sedgwick Ave, Bronx, NY 10463, USA</name>
+      <description>P(0.78) at 3977 Sedgwick Ave, Bronx, NY 10463, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.88878880020037,40.883664048521254,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3335 Henry Hudson Pkwy W, Bronx, NY 10463, USA</name>
+      <description>P(0.43) at 3335 Henry Hudson Pkwy W, Bronx, NY 10463, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91486235224356,40.8849251613033,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3335 Henry Hudson Pkwy W, Bronx, NY 10463, USA</name>
+      <description>P(0.66) at 3335 Henry Hudson Pkwy W, Bronx, NY 10463, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91483046243629,40.88493828241921,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3335 Henry Hudson Pkwy W, Bronx, NY 10463, USA</name>
+      <description>P(0.71) at 3335 Henry Hudson Pkwy W, Bronx, NY 10463, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91486020934842,40.88491575371146,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3817 Tibbett Ave, Bronx, NY 10463, USA</name>
+      <description>P(0.79) at 3817 Tibbett Ave, Bronx, NY 10463, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90160175247779,40.8864199855741,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3817 Tibbett Ave, Bronx, NY 10463, USA</name>
+      <description>P(0.81) at 3817 Tibbett Ave, Bronx, NY 10463, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90157967477812,40.88640442181239,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3817 Tibbett Ave, Bronx, NY 10463, USA</name>
+      <description>P(0.84) at 3817 Tibbett Ave, Bronx, NY 10463, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90162820871659,40.886438339528155,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>753 E 225th St, Bronx, NY 10466, USA</name>
+      <description>P(0.58) at 753 E 225th St, Bronx, NY 10466, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.85906204005828,40.887994761750015,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>753 E 225th St, Bronx, NY 10466, USA</name>
+      <description>P(0.65) at 753 E 225th St, Bronx, NY 10466, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.85907048020606,40.88797527667096,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4250 Boston Post Rd, Bronx, NY 10475, USA</name>
+      <description>P(0.42) at 4250 Boston Post Rd, Bronx, NY 10475, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.82190128209054,40.888601584112614,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>55 Clinton Pl, Bronx, NY 10801, USA</name>
+      <description>P(0.84) at 55 Clinton Pl, Bronx, NY 10801, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91612067480331,40.88818733512275,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3945 Provost Ave, Bronx, NY 10466, USA</name>
+      <description>P(0.37) at 3945 Provost Ave, Bronx, NY 10466, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.82705767775683,40.8897464003861,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3777 Independence Ave, Bronx, NY 10463, United States</name>
+      <description>P(0.78) at 3777 Independence Ave, Bronx, NY 10463, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91380059111206,40.889140957700334,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3777 Independence Ave, Bronx, NY 10463, United States</name>
+      <description>P(0.79) at 3777 Independence Ave, Bronx, NY 10463, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91376765167529,40.88913831279551,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1472 E 233rd St, Bronx, NY 10466, USA</name>
+      <description>P(0.71) at 1472 E 233rd St, Bronx, NY 10466, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.83332232889579,40.88894596473167,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3935 Blackstone Ave, Bronx, NY 10471, USA</name>
+      <description>P(0.42) at 3935 Blackstone Ave, Bronx, NY 10471, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91187020466809,40.89052817689266,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4483 Douglas Ave, Bronx, NY 10463, USA</name>
+      <description>P(0.81) at 4483 Douglas Ave, Bronx, NY 10463, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91732198678248,40.88983965785673,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4477 Douglas Ave, Bronx, NY 10463, USA</name>
+      <description>P(0.83) at 4477 Douglas Ave, Bronx, NY 10463, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91734490709773,40.889819927379335,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>600 Bronx Blvd, Bronx, NY 10467, USA</name>
+      <description>P(0.55) at 600 Bronx Blvd, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.86104473560458,40.89336177162261,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>P(0.41) at  </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87926854958373,40.89430160372122,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>600 Bronx Blvd, Bronx, NY 10467, USA</name>
+      <description>P(0.84) at 600 Bronx Blvd, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.86102523763046,40.89335651197872,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>600 Bronx Blvd, Bronx, NY 10467, USA</name>
+      <description>P(0.83) at 600 Bronx Blvd, Bronx, NY 10467, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.86100315496037,40.89339067814886,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4200 Jerome Ave, Bronx, NY 10467, United States</name>
+      <description>P(0.54) at 4200 Jerome Ave, Bronx, NY 10467, United States </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.8790286134104,40.89431103789604,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>P(0.65) at  </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.879109035991,40.89429397666953,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>P(0.77) at  </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87919290510744,40.89430058755323,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4761 Henry Hudson Pkwy W, Bronx, NY 10471, USA</name>
+      <description>P(0.71) at 4761 Henry Hudson Pkwy W, Bronx, NY 10471, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90895762132622,40.895275507854265,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4761 Henry Hudson Pkwy W, Bronx, NY 10471, USA</name>
+      <description>P(0.73) at 4761 Henry Hudson Pkwy W, Bronx, NY 10471, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90893799399286,40.89527773755775,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>143E E 233rd St, Bronx, NY 10470, USA</name>
+      <description>P(0.35) at 143E E 233rd St, Bronx, NY 10470, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.87081887061122,40.89673997107148,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4901 Henry Hudson Pkwy, Bronx, NY 10471, USA</name>
+      <description>P(0.82) at 4901 Henry Hudson Pkwy, Bronx, NY 10471, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90879634893558,40.89679149357267,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4701 Palisade Ave, Bronx, NY 10471, USA</name>
+      <description>P(0.44) at 4701 Palisade Ave, Bronx, NY 10471, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.9162329660612,40.89940512766062,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5400 Palisade Ave, Bronx, NY 10471, USA</name>
+      <description>P(0.39) at 5400 Palisade Ave, Bronx, NY 10471, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.91165876329089,40.90370833674409,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5500 Riverdale Ave, Bronx, NY 10471, USA</name>
+      <description>P(0.58) at 5500 Riverdale Ave, Bronx, NY 10471, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90463450677764,40.903607789836805,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>700 E 242nd St, Bronx, NY 10470, USA</name>
+      <description>P(0.33) at 700 E 242nd St, Bronx, NY 10470, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.84906030527581,40.90535486941826,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>61 Sigma Pl, Bronx, NY 10471, USA</name>
+      <description>P(0.78) at 61 Sigma Pl, Bronx, NY 10471, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90899842780122,40.90653621882416,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5923 Riverdale Ave, Bronx, NY 10471, USA</name>
+      <description>P(0.41) at 5923 Riverdale Ave, Bronx, NY 10471, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90438740820564,40.907544049657744,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5901 Palisade Ave, Bronx, NY 10471, USA</name>
+      <description>P(0.54) at 5901 Palisade Ave, Bronx, NY 10471, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90930060177986,40.91018450566105,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5959 Palisade Ave, Bronx, NY 10471, USA</name>
+      <description>P(0.81) at 5959 Palisade Ave, Bronx, NY 10471, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90805178496542,40.910244596023226,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5959 Palisade Ave, Bronx, NY 10471, USA</name>
+      <description>P(0.81) at 5959 Palisade Ave, Bronx, NY 10471, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90803044770387,40.91026762172325,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5959 Palisade Ave, Bronx, NY 10471, USA</name>
+      <description>P(0.78) at 5959 Palisade Ave, Bronx, NY 10471, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90862637060017,40.91036316549759,300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5959 Palisade Ave, Bronx, NY 10471, USA</name>
+      <description>P(0.85) at 5959 Palisade Ave, Bronx, NY 10471, USA </description>
+      <styleUrl>#icon-1736-0F9D58</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <coordinates>-73.90800588542525,40.910288838313846,300</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

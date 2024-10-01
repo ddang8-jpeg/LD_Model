@@ -1,0 +1,456 @@
+id,selected,inside_boundary,meets threshold,latitude (deg),longitude (deg),distance from center (m),address,confidence
+0,true,true,true,40.78703085,-73.88053976,22779.4,"10-01 Husson Ave, Bronx, NY 10474, United States",0.50
+1,true,true,true,40.78704577,-73.88051650,22777.0,"10-01 Husson Ave, Bronx, NY 10474, United States",0.62
+2,false,true,true,40.78838296,-73.88185124,22840.6,"1111 Hazen St, Flushing, NY 11370, USA",0.25
+3,false,true,true,40.79505735,-73.88877629,23199.2,"1500 Hazen St, Bronx, NY 10474, United States",0.25
+4,true,true,true,40.79691548,-73.88780635,23068.1,"10-01 Husson Ave, Bronx, NY 10474, United States",0.59
+5,true,true,true,40.79691611,-73.88776054,23064.3,"17 - 17 Hazen St, East Elmhurst, NY 11370, USA",0.65
+6,true,true,true,40.79691544,-73.88771583,23060.7,"17 - 17 Hazen St, East Elmhurst, NY 11370, USA",0.67
+7,true,true,true,40.79783675,-73.91296123,25104.4,"900 E 132nd St, Bronx, NY 10454, USA",0.41
+8,true,true,true,40.79690932,-73.88780502,23068.2,"10-01 Husson Ave, Bronx, NY 10474, United States",0.78
+9,true,true,true,40.79690860,-73.88776154,23064.6,"17 - 17 Hazen St, East Elmhurst, NY 11370, USA",0.81
+10,true,true,true,40.79690876,-73.88771586,23060.9,"17 - 17 Hazen St, East Elmhurst, NY 11370, USA",0.84
+11,false,true,true,40.79907023,-73.90899901,24748.3,"951 E 132nd St, Bronx, NY 10454, USA",0.28
+12,true,true,true,40.79865756,-73.90933943,24786.5,"951 E 132nd St, Bronx, NY 10454, USA",0.49
+13,true,true,true,40.79868628,-73.90931004,24783.3,"951 E 132nd St, Bronx, NY 10454, USA",0.52
+14,true,true,true,40.79782190,-73.91298386,25106.6,"900 E 132nd St, Bronx, NY 10454, USA",0.88
+15,true,true,true,40.79785721,-73.91293666,25101.9,"900 E 132nd St, Bronx, NY 10454, USA",0.88
+16,true,true,true,40.79788880,-73.91289051,25097.3,"900 E 132nd St, Bronx, NY 10454, USA",0.87
+17,true,true,true,40.79904241,-73.90903379,24751.9,"951 E 132nd St, Bronx, NY 10454, USA",0.72
+18,true,true,true,40.79901713,-73.91591928,25318.7,"670 E 132nd St, Bronx, NY 10454, United States",0.81
+19,true,true,true,40.79898359,-73.91594514,25321.6,"670 E 132nd St, Bronx, NY 10454, United States",0.83
+20,true,true,true,40.79939366,-73.91570165,25291.7,"770 E 132nd St, Bronx, NY 10454, United States",0.82
+21,true,true,true,40.79942687,-73.91567900,25289.0,"770 E 132nd St, Bronx, NY 10454, United States",0.83
+22,false,true,true,40.80118251,-73.91135547,24891.5,"829 E 134th St, Bronx, NY 10454, USA",0.30
+23,false,true,true,40.80350345,-73.87096117,21514.3,"510 Loop Rd, Bronx, NY 10474, USA",0.28
+24,true,true,true,40.80550182,-73.90464752,24240.3,"400 Walnut Ave, Bronx, NY 10454, USA",0.38
+25,true,true,true,40.80552231,-73.90462831,24238.3,"400 Walnut Ave, Bronx, NY 10454, USA",0.49
+26,false,true,true,40.80553541,-73.90461319,24236.7,"400 Walnut Ave, Bronx, NY 10454, USA",0.55
+27,true,true,true,40.80437972,-73.79236831,15115.6,"1 Hanus St, Bronx, NY 10465, United States",0.74
+28,true,true,true,40.80601699,-73.90804814,24510.3,"322 Bruckner Blvd, Bronx, NY 10454, USA",0.85
+29,true,true,true,40.80604177,-73.90809165,24513.4,"322 Bruckner Blvd, Bronx, NY 10454, USA",0.88
+30,true,true,true,40.80756793,-73.90733244,24418.5,"380 Southern Blvd, Bronx, NY 10454, USA",0.62
+31,true,true,true,40.80758600,-73.90735697,24420.2,"380 Southern Blvd, Bronx, NY 10454, USA",0.63
+32,false,true,true,40.80855341,-73.89872895,23685.8,"100 Oak Point Ave, Bronx, NY 10474, USA",0.29
+33,true,true,true,40.80757848,-73.90735595,24420.2,"380 Southern Blvd, Bronx, NY 10454, USA",0.70
+34,true,true,true,40.80756444,-73.90733313,24418.6,"380 Southern Blvd, Bronx, NY 10454, USA",0.71
+35,true,true,true,40.80766361,-73.92775099,26109.2,"304 E 134th St, Bronx, NY 10454, USA",0.71
+36,true,true,true,40.80753760,-73.90718554,24407.0,"380 Southern Blvd, Bronx, NY 10454, USA",0.79
+37,true,true,true,40.80751886,-73.90716130,24405.4,"380 Southern Blvd, Bronx, NY 10454, USA",0.80
+38,false,true,true,40.80855748,-73.89868662,23682.3,"100 Oak Point Ave, Bronx, NY 10474, USA",0.45
+39,false,true,true,40.80854730,-73.89876737,23689.1,"100 Oak Point Ave, Bronx, NY 10474, USA",0.56
+40,true,true,true,40.80826937,-73.90687167,24366.0,"828 E 144th St, Bronx, NY 10454, USA",0.77
+41,true,true,true,40.80882699,-73.87874474,22027.6,"300 Halleck St, Bronx, NY 10474, USA",0.52
+42,true,true,true,40.80883104,-73.87870369,22024.1,"300 Halleck St, Bronx, NY 10474, USA",0.61
+43,true,true,true,40.81024144,-73.89654319,23470.4,"550 Barry St, Bronx, NY 10474, USA",0.48
+44,true,true,true,40.81310588,-73.92721054,25966.2,"300 Canal Pl, Bronx, NY 10451, USA",0.31
+45,true,true,true,40.81407313,-73.92889440,26090.5,"232 Grand Concourse, Bronx, NY 10451, USA",0.57
+46,false,true,true,40.81483862,-73.91326035,24775.2,"547 E 149th St, Bronx, NY 10455, USA",0.29
+47,true,true,true,40.81361274,-73.90030241,23718.2,"657 Southern Blvd, Bronx, NY 10455, USA",0.71
+48,true,true,true,40.81367012,-73.90039012,23724.5,"658 Fox St, Bronx, NY 10455, USA",0.74
+49,true,true,true,40.81403143,-73.92892143,26093.4,"232 Grand Concourse, Bronx, NY 10451, USA",0.71
+50,true,true,true,40.81416102,-73.89053606,22896.5,"1223 Spofford Ave, Bronx, NY 10474, USA",0.76
+51,true,true,true,40.81416489,-73.89050492,22893.8,"1223 Spofford Ave, Bronx, NY 10474, USA",0.79
+52,true,true,true,40.81545735,-73.91531482,24936.2,"463 E 149th St, Bronx, NY 10455, USA",0.37
+53,true,true,true,40.81482488,-73.91326957,24776.2,"547 E 149th St, Bronx, NY 10455, USA",0.68
+54,true,true,true,40.81485201,-73.91325195,24774.3,"547 E 149th St, Bronx, NY 10455, USA",0.71
+55,true,true,true,40.81482431,-73.91327050,24776.3,"547 E 149th St, Bronx, NY 10455, USA",0.77
+56,true,true,true,40.81516175,-73.91616607,25012.0,"432-434 E 149th St, Bronx, NY 10455, USA",0.83
+57,true,true,true,40.81672111,-73.89044668,22843.7,"841 Barretto St, Bronx, NY 10474, USA",0.35
+58,true,true,true,40.81597708,-73.81537871,16639.4,"2900 Harding Ave, Bronx, NY 10465, United States",0.50
+59,true,true,true,40.81600595,-73.81538500,16639.2,"2900 Harding Ave, Bronx, NY 10465, United States",0.71
+60,true,true,true,40.81623347,-73.82229237,17202.9,"261 Huntington Ave, Bronx, NY 10465, USA",0.75
+61,true,true,true,40.81799900,-73.92993528,26117.3,"124 Exterior Street, Bronx, NY 10451, USA",0.39
+62,true,true,true,40.81672233,-73.89045439,22844.3,"841 Barretto St, Bronx, NY 10474, USA",0.78
+63,true,true,true,40.81671961,-73.89049574,22847.8,"841 Barretto St, Bronx, NY 10474, USA",0.80
+64,true,true,true,40.81732901,-73.89051444,22839.0,"847 Barretto St, Bronx, NY 10474, USA",0.69
+65,true,true,true,40.81728585,-73.89052857,22840.9,"847 Barretto St, Bronx, NY 10474, USA",0.76
+66,true,true,true,40.81728800,-73.89050619,22839.0,"847 Barretto St, Bronx, NY 10474, USA",0.77
+67,true,true,true,40.81732742,-73.89053632,22840.9,"847 Barretto St, Bronx, NY 10474, USA",0.76
+68,true,true,true,40.81755787,-73.92736586,25909.1,"448 Grand Concourse, Bronx, NY 10451, USA",0.82
+69,true,true,true,40.81759035,-73.92735161,25907.4,"448 Grand Concourse, Bronx, NY 10451, USA",0.83
+70,true,true,true,40.81801261,-73.92806618,25960.9,"492 Walton Ave, Bronx, NY 10451, USA",0.75
+71,true,true,true,40.81803560,-73.92805756,25959.9,"492 Walton Ave, Bronx, NY 10451, USA",0.80
+72,false,true,true,40.81935705,-73.85706005,20019.7,"670 White Plains Rd, Bronx, NY 10473, USA",0.27
+73,true,true,true,40.81911864,-73.92631337,25798.8,"558-560 Grand Concourse, Bronx, NY 10451, USA",0.75
+74,true,true,true,40.81909529,-73.92631777,25799.5,"558-560 Grand Concourse, Bronx, NY 10451, USA",0.77
+75,true,true,true,40.81911816,-73.92632379,25799.6,"558-560 Grand Concourse, Bronx, NY 10451, USA",0.80
+76,true,true,true,40.81909530,-73.92633339,25800.8,"558-560 Grand Concourse, Bronx, NY 10451, USA",0.82
+77,true,true,true,40.81914041,-73.92630726,25798.0,"558-560 Grand Concourse, Bronx, NY 10451, USA",0.81
+78,false,true,true,40.82077702,-73.86432067,20599.8,"759 Beach Ave, Bronx, NY 10473, USA",0.26
+79,false,true,true,40.82245532,-73.87348686,21338.0,"1634 Bruckner Blvd, Bronx, NY 10473, USA",0.34
+80,true,true,true,40.82175795,-73.92997098,26069.6,"628 Exterior Street, Bronx, NY 10451, USA",0.73
+81,true,true,true,40.82267681,-73.91712941,24983.2,"785 Courtlandt Ave, Bronx, NY 10451, USA",0.38
+82,true,true,true,40.82187748,-73.92755198,25865.6,"656 Gerard Ave, Bronx, NY 10451, USA",0.69
+83,true,true,true,40.82189671,-73.92756406,25866.4,"656 Gerard Ave, Bronx, NY 10451, USA",0.71
+84,true,true,true,40.82175777,-73.92993936,26066.9,"628 Exterior Street, Bronx, NY 10451, USA",0.80
+85,true,true,true,40.82175034,-73.92997023,26069.6,"628 Exterior Street, Bronx, NY 10451, USA",0.84
+86,true,true,true,40.82355073,-73.85915760,20125.5,"860 Bolton Ave, Bronx, NY 10473, USA",0.39
+87,true,true,true,40.82380590,-73.91077192,24436.9,"900 Washington Ave, Bronx, NY 10451, USA",0.43
+88,true,true,true,40.82374314,-73.91075833,24436.5,"900 Washington Ave, Bronx, NY 10451, USA",0.47
+89,true,true,true,40.82378369,-73.91076738,24436.8,"900 Washington Ave, Bronx, NY 10451, USA",0.47
+90,true,true,true,40.82381703,-73.91077408,24436.9,"900 Washington Ave, Bronx, NY 10451, USA",0.52
+91,true,true,true,40.82305953,-73.89457369,23091.3,"982 C Westchester Ave, Bronx, NY 10459, USA",0.77
+92,true,true,true,40.82376027,-73.91076129,24436.6,"900 Washington Ave, Bronx, NY 10451, USA",0.57
+93,true,true,true,40.82307521,-73.89454521,23088.7,"982 C Westchester Ave, Bronx, NY 10459, USA",0.79
+94,true,true,true,40.82373448,-73.91075659,24436.5,"900 Washington Ave, Bronx, NY 10451, USA",0.62
+95,true,true,true,40.82383472,-73.93042963,26082.8,"600 Major Deegan Expy, Bronx, NY 10451, USA",0.84
+96,true,true,true,40.82383798,-73.93038738,26079.3,"600 Major Deegan Expy, Bronx, NY 10451, USA",0.85
+97,false,true,true,40.82506257,-73.81327609,16277.3,"500 Ellsworth Ave, Bronx, NY 10465, USA",0.27
+98,false,true,true,40.82622909,-73.81404070,16321.1,"515 Wilcox Ave, Bronx, NY 10465, USA",0.34
+99,true,true,true,40.82673625,-73.91974952,25155.5,"231 E 161st St, Bronx, NY 10451, USA",0.38
+100,true,true,true,40.82579596,-73.81571352,16467.6,"543 Ellsworth Ave, Bronx, NY 10465, USA",0.52
+101,true,true,true,40.82581351,-73.92107375,25276.4,"198 E 161st St, Bronx, NY 10451, USA",0.78
+102,true,true,true,40.82578480,-73.92108986,25278.1,"198 E 161st St, Bronx, NY 10451, USA",0.80
+103,true,true,true,40.82621633,-73.92656699,25732.6,"814 River Ave, Bronx, NY 10451, USA",0.70
+104,true,true,true,40.82623708,-73.92655124,25731.1,"814 River Ave, Bronx, NY 10451, USA",0.76
+105,true,true,true,40.82670568,-73.91975561,25156.3,"231 E 161st St, Bronx, NY 10451, USA",0.68
+106,true,true,true,40.82643595,-73.92398278,25513.6,"850 Walton Ave, Bronx, NY 10451, USA",0.81
+107,true,true,true,40.82646931,-73.92396653,25511.9,"850 Walton Ave, Bronx, NY 10451, USA",0.84
+108,false,true,true,40.82769398,-73.83109304,17721.2,"934 Balcom Ave, Bronx, NY 10465, USA",0.25
+109,true,true,true,40.82670420,-73.91973348,25154.4,"231 E 161st St, Bronx, NY 10451, USA",0.81
+110,true,true,true,40.82716576,-73.85969300,20119.6,"1036 White Plains Rd, Bronx, NY 10472, USA",0.54
+111,true,true,true,40.82673550,-73.91971863,25152.9,"231 E 161st St, Bronx, NY 10451, USA",0.84
+112,true,true,true,40.82694973,-73.92026883,25196.7,"217 E 161st St, Bronx, NY 10451, USA",0.78
+113,true,true,true,40.82693599,-73.92022690,25193.4,"217 E 161st St, Bronx, NY 10451, USA",0.79
+114,true,true,true,40.82676503,-73.91970088,25151.1,"231 E 161st St, Bronx, NY 10451, USA",0.86
+115,true,true,true,40.82679616,-73.91968185,25149.1,"231 E 161st St, Bronx, NY 10451, USA",0.85
+116,true,true,true,40.82810851,-73.90053297,23529.6,"775 Home St, Bronx, NY 10456, USA",0.35
+117,true,true,true,40.82697438,-73.92020446,25191.1,"217 E 161st St, Bronx, NY 10451, USA",0.81
+118,true,false,true,40.82813901,-73.93408468,26344.0,"Macombs Dam Bridge, New York, NY 10039, United States",0.41
+119,true,true,true,40.82698827,-73.92024573,25194.4,"217 E 161st St, Bronx, NY 10451, USA",0.81
+120,false,true,true,40.82830307,-73.86798491,20799.7,"1123 Commonwealth Ave, Bronx, NY 10472, USA",0.27
+121,true,false,true,40.82809074,-73.93391627,26330.3,"Macombs Dam Bridge, New York, NY 10039, United States",0.48
+122,true,false,true,40.82813131,-73.93415894,26350.3,"Macombs Dam Bridge, New York, NY 10039, United States",0.48
+123,true,false,true,40.82814428,-73.93400257,26337.0,"Macombs Dam Bridge, New York, NY 10039, United States",0.52
+124,true,true,true,40.82857837,-73.91202220,24488.4,"1055 Webster Ave, Bronx, NY 10456, USA",0.34
+125,true,true,true,40.82888626,-73.88913611,22565.7,"1197c Bryant Ave, Bronx, NY 10459, USA",0.39
+126,true,true,true,40.82857235,-73.91204775,24490.6,"1055 Webster Ave, Bronx, NY 10456, USA",0.57
+127,true,true,true,40.82817285,-73.90050223,23526.3,"1170 Tinton Ave, Bronx, NY 10456, USA",0.68
+128,true,true,true,40.83006368,-73.92020105,25160.8,"1030 Grand Concourse, Bronx, NY 10456, USA",0.36
+129,true,true,true,40.82993332,-73.84621960,18957.4,"2340 Haviland Ave, Bronx, NY 10462, USA",0.43
+130,true,true,true,40.83081856,-73.90349266,23751.3,"1235 Franklin Ave, Bronx, NY 10456, USA",0.41
+131,true,true,true,40.83008446,-73.92022696,25162.8,"1030 Grand Concourse, Bronx, NY 10456, USA",0.78
+132,true,true,true,40.83007098,-73.92019812,25160.5,"1030 Grand Concourse, Bronx, NY 10456, USA",0.82
+133,false,true,true,40.83194403,-73.91817085,24974.3,"1113 Sheridan Ave, Bronx, NY 10456, USA",0.27
+134,false,true,true,40.83232794,-73.92793951,25792.0,"990 Woodycrest Ave, Bronx, NY 10452, USA",0.29
+135,true,true,true,40.83154107,-73.90262642,23672.1,"1281 Franklin Ave, Bronx, NY 10456, United States",0.80
+136,true,true,true,40.83150808,-73.90264964,23674.4,"1275 Franklin Ave, Bronx, NY 10456, USA",0.83
+137,true,true,true,40.83327942,-73.87504661,21341.1,"1339 Morrison Ave, Bronx, NY 10472, USA",0.37
+138,true,true,true,40.83326108,-73.84297271,18649.1,"1201 Seabury Ave, Bronx, NY 10462, USA",0.40
+139,true,true,true,40.83512933,-73.84655201,18932.5,"2337-2365 Waterbury Ave, Bronx, NY 10462, USA",0.46
+140,true,true,true,40.83515876,-73.84655598,18932.5,"2337-2365 Waterbury Ave, Bronx, NY 10462, USA",0.63
+141,true,true,true,40.83585025,-73.86208744,20231.8,"1409 Wood Rd, Bronx, NY 10462, USA",0.45
+142,true,true,true,40.83577605,-73.84250006,18586.8,"1315 Seabury Ave, Bronx, NY 10461, USA",0.47
+143,true,true,true,40.83588163,-73.86208701,20231.5,"1409 Wood Rd, Bronx, NY 10462, USA",0.58
+144,true,true,true,40.83574978,-73.84249991,18587.0,"1315 Seabury Ave, Bronx, NY 10461, USA",0.64
+145,true,true,true,40.83668011,-73.85461831,19598.0,"2115 Starling Ave, Bronx, NY 10462, USA",0.35
+146,true,true,true,40.83624224,-73.92019277,25114.1,"1225-1257 Gerard Ave, Bronx, NY 10452, USA",0.66
+147,true,true,true,40.83631494,-73.92014954,25110.1,"1225-1257 Gerard Ave, Bronx, NY 10452, USA",0.80
+148,true,true,true,40.83670588,-73.85462356,19598.2,"2115 Starling Ave, Bronx, NY 10462, USA",0.54
+149,true,true,true,40.83666847,-73.85461625,19597.9,"2115 Starling Ave, Bronx, NY 10462, USA",0.66
+150,false,true,true,40.83775989,-73.81706734,16434.5,"1208 Stadium Ave, Bronx, NY 10465, USA",0.25
+151,true,true,true,40.83796695,-73.84748593,18989.5,"2417 Tratman Ave, Bronx, NY 10461, USA",0.82
+152,true,true,true,40.83800256,-73.84744560,18985.9,"2417 Tratman Ave, Bronx, NY 10461, USA",0.85
+153,true,true,true,40.83865833,-73.91923627,25020.8,"1325 Jerome Ave, Bronx, NY 10452, USA",0.77
+154,true,true,true,40.83968862,-73.91980963,25064.4,"1366 Cromwell Ave, Bronx, NY 10452, USA",0.40
+155,true,true,true,40.83863545,-73.91925505,25022.5,"1325 Jerome Ave, Bronx, NY 10452, USA",0.80
+156,true,true,true,40.83951418,-73.90139764,23515.8,"1574-1598 Bathgate Ave, Bronx, NY 10457, USA",0.50
+157,true,true,true,40.83910280,-73.87985477,21705.2,"1044-1068 E Tremont Ave, Bronx, NY 10460, USA",0.69
+158,true,true,true,40.84155669,-73.89145057,22670.2,"1796 Prospect Ave, Bronx, NY 10457, USA",0.31
+159,true,true,true,40.83995380,-73.78473892,13701.5,"85 Buckley St, Bronx, NY 10464-1650, United States",0.73
+160,true,true,true,40.84039640,-73.83917563,18276.3,"3000 E Tremont Ave, Bronx, NY 10462, USA",0.75
+161,true,true,true,40.84040519,-73.83926273,18283.6,"3000 E Tremont Ave, Bronx, NY 10462, USA",0.80
+162,false,true,true,40.84263569,-73.86175426,20166.8,"2135 E Tremont Ave, Bronx, NY 10462, United States",0.28
+163,true,true,true,40.84256008,-73.85570778,19658.1,"2265-2267 E Tremont Ave, Bronx, NY 10462, USA",0.47
+164,false,true,true,40.84409462,-73.79438421,14491.1,"NY, United States",0.28
+165,true,true,true,40.84439222,-73.87678292,21427.2,"1061 Bronx Park S, Bronx, NY 10460, United States",0.37
+166,true,true,true,40.84347998,-73.92119645,25168.7,"1440 Nelson Ave, Bronx, NY 10452, USA",0.79
+167,true,true,true,40.84353802,-73.92115485,25165.0,"1440 Nelson Ave, Bronx, NY 10452, USA",0.78
+168,true,true,true,40.84360998,-73.91117468,24324.6,"1650 Grand Concourse, Bronx, NY 10457, USA",0.76
+169,true,true,true,40.84361086,-73.91122087,24328.5,"1650 Grand Concourse, Bronx, NY 10457, USA",0.76
+170,true,true,true,40.84403713,-73.88974834,22519.6,"1945 Prospect Ave, Bronx, NY 10457, USA",0.66
+171,true,true,true,40.84444472,-73.82790041,17311.5,"3060 Middletown Rd, Bronx, NY 10461, United States",0.42
+172,true,true,true,40.84471813,-73.82279136,16880.7,"1515 Kennellworth Pl, Bronx, NY 10465, USA",0.32
+173,true,true,true,40.84410842,-73.79441791,14493.9,"NY, United States",0.51
+174,true,true,true,40.84450047,-73.87677650,21426.4,"1061 Bronx Park S, Bronx, NY 10460, United States",0.53
+175,true,true,true,40.84452128,-73.87676945,21425.8,"1061 Bronx Park S, Bronx, NY 10460, United States",0.53
+176,true,true,true,40.84405784,-73.88973132,22518.1,"1945 Prospect Ave, Bronx, NY 10457, USA",0.76
+177,true,true,true,40.84436540,-73.87680950,21429.5,"2150 Boston Rd, Bronx, NY 10460, USA",0.63
+178,true,true,true,40.84454355,-73.87676301,21425.2,"1061 Bronx Park S, Bronx, NY 10460, United States",0.63
+179,true,true,true,40.84448176,-73.87678147,21426.9,"1061 Bronx Park S, Bronx, NY 10460, United States",0.72
+180,true,true,true,40.84678465,-73.84361819,18631.0,"1685 Waters Pl, Bronx, NY 10461, USA",0.64
+181,true,true,true,40.84773925,-73.83186706,17640.9,"3009 Westchester Ave, Bronx, NY 10461, USA",0.34
+182,false,true,true,40.84820112,-73.89355819,22835.7,"2026A Lafontaine Ave, Bronx, NY 10457, USA",0.36
+183,true,true,true,40.84818335,-73.84401766,18664.1,"1780 Eastchester Rd, Bronx, NY 10461, USA",0.32
+184,false,true,true,40.84780364,-73.78929601,14056.1,"340 William Ave, Bronx, NY 10464, USA",0.35
+185,true,true,true,40.84679750,-73.83889950,18233.6,"1300 Waters Pl, Bronx, NY 10461, USA",0.84
+186,true,true,true,40.84683230,-73.83889936,18233.6,"1300 Waters Pl, Bronx, NY 10461, USA",0.84
+187,false,true,true,40.84780346,-73.78930309,14056.7,"340 William Ave, Bronx, NY 10464, USA",0.41
+188,true,true,true,40.84756805,-73.83884165,18228.3,"1805 Hutchinson River Pkwy E, Bronx, NY 10461, United States",0.74
+189,true,true,true,40.84858123,-73.85825717,19863.2,"1831 Radcliff Ave, Bronx, NY 10462-3706, United States",0.44
+190,true,true,true,40.84757046,-73.83888093,18231.6,"1803 Hutchinson River Pkwy E, Bronx, NY 10461, United States",0.80
+191,true,true,true,40.84756379,-73.83879936,18224.7,"1805 Hutchinson River Pkwy E, Bronx, NY 10461, United States",0.82
+192,true,true,true,40.84861261,-73.85819221,19857.7,"1831 Radcliff Ave, Bronx, NY 10462-3706, United States",0.50
+193,true,true,true,40.84799439,-73.84640208,18864.9,"1190 Pierce Ave, Bronx, NY 10461, USA",0.78
+194,true,true,true,40.84804224,-73.84644459,18868.4,"1190 Pierce Ave, Bronx, NY 10461, USA",0.84
+195,true,true,true,40.84799363,-73.84641417,18865.9,"1190 Pierce Ave, Bronx, NY 10461, USA",0.86
+196,true,true,true,40.84808951,-73.84648189,18871.6,"1190 Pierce Ave, Bronx, NY 10461, USA",0.85
+197,true,true,true,40.84817625,-73.84404145,18666.1,"1780 Eastchester Rd, Bronx, NY 10461, USA",0.82
+198,true,true,true,40.84818879,-73.84399276,18662.0,"1780 Eastchester Rd, Bronx, NY 10461, USA",0.82
+199,true,true,true,40.84820359,-73.84394381,18657.9,"1740 Bassett Ave, Bronx, NY 10461-2323, United States",0.84
+200,false,true,true,40.84981316,-73.79092196,14194.5,"435 Hunter Ave, Bronx, NY 10464, USA",0.27
+201,true,true,true,40.85040343,-73.91002032,24223.2,"1908 Jerome Ave, Bronx, NY 10453, USA",0.32
+202,true,true,true,40.84900561,-73.84655538,18878.0,"1600 Tenbroeck Ave, Bronx, NY 10461, United States",0.74
+203,true,true,true,40.84903933,-73.84655676,18878.2,"1600 Tenbroeck Ave, Bronx, NY 10461, United States",0.77
+204,true,true,true,40.84906615,-73.84655785,18878.3,"1608 Tenbroeck Ave, Bronx, NY 10461, United States",0.80
+205,true,true,true,40.84901234,-73.84655633,18878.1,"1600 Tenbroeck Ave, Bronx, NY 10461, United States",0.85
+206,false,true,true,40.85072187,-73.83349947,17780.8,"1939 Pilgrim Ave, Bronx, NY 10461, USA",0.29
+207,true,true,true,40.85071961,-73.83347165,17778.5,"1939 Pilgrim Ave, Bronx, NY 10461, USA",0.30
+208,true,true,true,40.85082160,-73.79228783,14311.5,"453-457 City Island Ave, Bronx, NY 10464, USA",0.30
+209,true,true,true,40.84988120,-73.84584642,18819.1,"1825 Sackett Ave, Bronx, NY 10461, USA",0.76
+210,true,true,true,40.84994633,-73.84584904,18819.4,"1825 Sackett Ave, Bronx, NY 10461, USA",0.75
+211,true,true,true,40.84986081,-73.84584813,18819.2,"1825 Sackett Ave, Bronx, NY 10461, USA",0.79
+212,true,true,true,40.85104257,-73.84489576,18740.9,"1859 Eastchester Rd, Bronx, NY 10461, USA",0.38
+213,true,true,true,40.84991829,-73.84584853,18819.4,"1825 Sackett Ave, Bronx, NY 10461, USA",0.80
+214,true,true,true,40.85105600,-73.84489676,18741.0,"1859 Eastchester Rd, Bronx, NY 10461, USA",0.41
+215,true,true,true,40.85102748,-73.84489593,18740.9,"1859 Eastchester Rd, Bronx, NY 10461, USA",0.43
+216,true,true,true,40.85101031,-73.84489683,18740.9,"1859 Eastchester Rd, Bronx, NY 10461, USA",0.47
+217,true,true,true,40.85023828,-73.83850923,18201.8,"1000 Waters Pl, Bronx, NY 10461-2700, United States",0.85
+218,true,true,true,40.85057154,-73.84574326,18811.4,"1300 Morris Park Ave, Bronx, NY 10461, USA",0.76
+219,true,true,true,40.85098898,-73.84489931,18741.1,"1859 Eastchester Rd, Bronx, NY 10461, USA",0.66
+220,true,true,true,40.85057216,-73.84560608,18799.9,"1300 Morris Park Ave, Bronx, NY 10461, United States",0.80
+221,true,true,true,40.85063605,-73.84647714,18873.3,"1230 Morris Park Ave, Bronx, NY 10461, USA",0.79
+222,true,true,true,40.85067879,-73.84647488,18873.2,"1230 Morris Park Ave, Bronx, NY 10461, USA",0.78
+223,true,true,true,40.85055300,-73.84512260,18759.1,"1845 Eastchester Rd, Bronx, NY 10461, USA",0.83
+224,true,true,true,40.85107221,-73.84489789,18741.2,"1859 Eastchester Rd, Bronx, NY 10461, USA",0.68
+225,true,true,true,40.85058342,-73.84511009,18758.1,"1845 Eastchester Rd, Bronx, NY 10461, USA",0.85
+226,true,true,true,40.85057282,-73.84567628,18805.8,"1300 Morris Park Ave, Bronx, NY 10461, USA",0.86
+227,true,true,true,40.85063400,-73.84659499,18883.2,"1230 Morris Park Ave, Bronx, NY 10461, USA",0.85
+228,true,true,true,40.85067974,-73.84659307,18883.1,"1230 Morris Park Ave, Bronx, NY 10461, USA",0.86
+229,true,true,true,40.85154287,-73.91510611,24653.0,"1835 University Ave, Bronx, NY 10453, USA",0.74
+230,false,true,true,40.85283334,-73.84654628,18884.4,"1225a Morris Park Ave, Bronx, NY 10461, USA",0.25
+231,false,true,true,40.85207217,-73.87567354,21334.2,"2300 Southern Blvd, Bronx, NY 10460, United States",0.59
+232,true,true,true,40.85207743,-73.87565143,21332.4,"2300 Southern Blvd, Bronx, NY 10460, United States",0.68
+233,true,true,true,40.85272355,-73.84632145,18865.1,"1225a Morris Park Ave, Bronx, NY 10461, USA",0.50
+234,true,true,true,40.85201347,-73.84576184,18816.0,"1301 Morris Park Ave, Bronx, NY 10461, USA",0.76
+235,true,true,true,40.85293389,-73.91909064,24991.2,"230 W Tremont Ave, Bronx, NY 10453, USA",0.59
+236,true,true,true,40.85305126,-73.91923802,25003.9,"230 W Tremont Ave, Bronx, NY 10453, USA",0.55
+237,true,true,true,40.85196713,-73.84576180,18815.9,"1301 Morris Park Ave, Bronx, NY 10461, USA",0.81
+238,true,true,true,40.85192609,-73.84576349,18815.9,"1301 Morris Park Ave, Bronx, NY 10461, USA",0.84
+239,true,true,true,40.85205167,-73.84576140,18816.1,"1301 Morris Park Ave, Bronx, NY 10461, USA",0.81
+240,true,true,true,40.85217884,-73.84438306,18700.4,"1925 Eastchester Rd, Bronx, NY 10461, USA",0.77
+241,true,true,true,40.85217933,-73.84433828,18696.6,"1925 Eastchester Rd, Bronx, NY 10461, USA",0.80
+242,true,true,true,40.85294661,-73.91911395,24993.2,"230 W Tremont Ave, Bronx, NY 10453, USA",0.68
+243,true,true,true,40.85273728,-73.92096396,25148.5,"275 Harlem River Pk Brg, Bronx, NY 10453, USA",0.76
+244,true,true,true,40.85292183,-73.91913763,24995.1,"230 W Tremont Ave, Bronx, NY 10453, USA",0.70
+245,true,true,true,40.85271742,-73.92093251,25145.8,"275 Harlem River Pk Brg, Bronx, NY 10453, USA",0.78
+246,true,true,true,40.85293599,-73.91916352,24997.3,"230 W Tremont Ave, Bronx, NY 10453, USA",0.71
+247,true,true,true,40.85224163,-73.84438295,18700.6,"1925 Eastchester Rd, Bronx, NY 10461, USA",0.81
+248,true,true,true,40.85299243,-73.91911043,24993.0,"230 W Tremont Ave, Bronx, NY 10453, USA",0.70
+249,true,true,true,40.85329095,-73.79980378,14952.5,"13 Rodmans Neck, Bronx, NY 10464, United States",0.35
+250,true,true,true,40.85224237,-73.84433879,18696.9,"1925 Eastchester Rd, Bronx, NY 10461, USA",0.82
+251,true,true,true,40.85297530,-73.91908570,24990.9,"230 W Tremont Ave, Bronx, NY 10453, USA",0.72
+252,true,true,true,40.85303072,-73.91911370,24993.4,"230 W Tremont Ave, Bronx, NY 10453, USA",0.70
+253,true,true,true,40.85290689,-73.91911505,24993.2,"230 W Tremont Ave, Bronx, NY 10453, USA",0.75
+254,true,true,true,40.85296120,-73.91913949,24995.4,"230 W Tremont Ave, Bronx, NY 10453, USA",0.73
+255,true,true,true,40.85300343,-73.91913689,24995.3,"230 W Tremont Ave, Bronx, NY 10453, USA",0.72
+256,true,true,true,40.85301638,-73.91908707,24991.1,"230 W Tremont Ave, Bronx, NY 10453, USA",0.72
+257,true,true,true,40.85299958,-73.91906024,24988.8,"230 W Tremont Ave, Bronx, NY 10453, USA",0.74
+258,true,true,true,40.85294954,-73.91918741,24999.4,"230 W Tremont Ave, Bronx, NY 10453, USA",0.77
+259,true,true,true,40.85307471,-73.91921418,25001.9,"230 W Tremont Ave, Bronx, NY 10453, USA",0.73
+260,true,true,true,40.85297370,-73.91916550,24997.6,"230 W Tremont Ave, Bronx, NY 10453, USA",0.78
+261,true,true,true,40.85279857,-73.83935652,18279.2,"1250 Waters Pl, Bronx, NY 10461, USA",0.75
+262,true,true,true,40.85289674,-73.89102649,22628.6,"4418-4428 Third Ave, Bronx, NY 10457, USA",0.84
+263,true,true,true,40.85292708,-73.89099828,22626.4,"4418-4428 Third Ave, Bronx, NY 10457, USA",0.85
+264,true,true,true,40.85296303,-73.89096639,22623.8,"4422 3rd Ave, Bronx, NY 10457-2544, United States",0.86
+265,true,true,true,40.85299234,-73.89093824,22621.5,"2175 Quarry Rd, Bronx, NY 10457, USA",0.86
+266,true,true,true,40.85392821,-73.89228249,22737.3,"2265 Bathgate Ave, Bronx, NY 10457, USA",0.53
+267,true,true,true,40.85302844,-73.89090653,22618.9,"2175 Quarry Rd, Bronx, NY 10457, USA",0.85
+268,true,true,true,40.85274384,-73.83940429,18283.0,"1250 Waters Pl, Bronx, NY 10461, USA",0.85
+269,true,true,true,40.85305728,-73.89088007,22616.7,"2175 Quarry Rd, Bronx, NY 10457, USA",0.87
+270,false,true,true,40.85492532,-73.89798410,23220.5,"2180 Tiebout Ave, Bronx, NY 10457, USA",0.26
+271,true,true,true,40.85301057,-73.83868787,18223.6,"1250 Waters Pl, Bronx, NY 10461, USA",0.84
+272,true,true,true,40.85307989,-73.83881837,18234.8,"1250 Waters Pl, Bronx, NY 10461, USA",0.85
+273,true,true,true,40.85304573,-73.83875314,18229.2,"1250 Waters Pl, Bronx, NY 10461, USA",0.86
+274,true,true,true,40.85457035,-73.89710233,23145.1,"2225 Webster Ave, Bronx, NY 10457, USA",0.45
+275,true,true,true,40.85454484,-73.89708922,23143.9,"2225 Webster Ave, Bronx, NY 10457, USA",0.53
+276,true,true,true,40.85545841,-73.84750663,18975.6,"1410 Pelham Pkwy N, Bronx, NY 10461, USA",0.51
+277,true,true,true,40.85548606,-73.84750879,18975.9,"1410 Pelham Pkwy N, Bronx, NY 10461, USA",0.52
+278,true,true,true,40.85580365,-73.79092306,14219.8,"652-658 City Island Ave, Bronx, NY 10464, USA",0.48
+279,true,true,true,40.85632399,-73.84756876,18985.3,"1400 Pelham Pkwy S, Bronx, NY 10461, USA",0.43
+280,true,true,true,40.85555465,-73.84750786,18976.2,"1410 Pelham Pkwy N, Bronx, NY 10461, USA",0.74
+281,true,true,true,40.85558668,-73.84750769,18976.3,"1410 Pelham Pkwy N, Bronx, NY 10461, USA",0.76
+282,true,true,true,40.85544281,-73.83581665,17992.3,"350 Marconi St, Bronx, NY 10461, USA",0.85
+283,true,true,true,40.85548808,-73.83584711,17995.0,"350 Marconi St, Bronx, NY 10461, USA",0.85
+284,true,true,true,40.85551975,-73.83586615,17996.8,"350 Marconi St, Bronx, NY 10461, USA",0.86
+285,true,true,true,40.85604963,-73.84819329,19036.3,"1920 Seminole Ave, Bronx, NY 10461, United States",0.70
+286,false,true,true,40.85769782,-73.91043664,24279.9,"2151 University Ave, Bronx, NY 10453, USA",0.26
+287,true,true,true,40.85629130,-73.84762374,18989.7,"1400 Pelham Pkwy S, Bronx, NY 10461, USA",0.66
+288,true,true,true,40.85771645,-73.90186999,23559.5,"2272 Morris Ave, Bronx, NY 10453, USA",0.30
+289,true,true,true,40.85633782,-73.84774617,19000.3,"1400 Pelham Pkwy S, Bronx, NY 10461, USA",0.78
+290,true,true,true,40.85642006,-73.84657017,18901.8,"1400 Pelham Pkwy S, Bronx, NY 10461, United States",0.75
+291,true,true,true,40.85671255,-73.91209683,24415.1,"2075 Dr M.L.K. Jr Blvd, Bronx, NY 10453, USA",0.79
+292,true,true,true,40.85669686,-73.91204758,24410.9,"2075 Dr M.L.K. Jr Blvd, Bronx, NY 10453, USA",0.80
+293,true,true,true,40.85770815,-73.91042767,24279.2,"2151 University Ave, Bronx, NY 10453, USA",0.46
+294,true,true,true,40.85641928,-73.84661602,18905.7,"1400 Pelham Pkwy S, Bronx, NY 10461, United States",0.80
+295,true,true,true,40.85631385,-73.84774565,19000.1,"1400 Pelham Pkwy S, Bronx, NY 10461, USA",0.85
+296,true,true,true,40.85833580,-73.88291046,21968.4,"2540 Belmont Ave, Bronx, NY 10458, United States",0.76
+297,true,true,true,40.85964033,-73.88498985,22151.1,"575 E 191st St, Bronx, NY 10458, USA",0.31
+298,true,true,true,40.85835047,-73.88289620,21967.2,"2540 Belmont Ave, Bronx, NY 10458, United States",0.78
+299,true,true,true,40.86060643,-73.89593553,23077.4,"269 E 188th St, Bronx, NY 10458, USA",0.32
+300,true,true,true,40.86070194,-73.89013914,22590.9,"444 E Fordham Rd, Bronx, NY 10458, USA",0.78
+301,true,true,true,40.86074292,-73.89015125,22592.2,"1 Fordham Plaza, Bronx, NY 10458, USA",0.81
+302,true,true,true,40.86100010,-73.89167703,22722.2,"410 E Fordham Rd, Bronx, NY 10458, USA",0.77
+303,true,true,true,40.86097366,-73.89170504,22724.4,"410 E Fordham Rd, Bronx, NY 10458, USA",0.78
+304,false,true,true,40.86235924,-73.86598177,20574.7,"2440 Boston Post Rd, Bronx, NY 10467, USA",0.28
+305,true,true,true,40.86138720,-73.88959607,22550.1,"428 E Fordham Rd, Bronx, NY 10458, United States",0.68
+306,false,true,true,40.86237782,-73.86598208,20574.9,"2440 Boston Post Rd, Bronx, NY 10467, USA",0.29
+307,true,true,true,40.86140562,-73.88957805,22548.7,"428 E Fordham Rd, Bronx, NY 10458, United States",0.74
+308,true,false,true,40.86267003,-73.91490571,24685.7,"3859 9th Ave, New York, NY 10034, USA",0.34
+309,true,true,true,40.86133557,-73.88964430,22553.8,"428 E Fordham Rd, Bronx, NY 10458, United States",0.79
+310,true,true,true,40.86135527,-73.88962714,22552.5,"428 E Fordham Rd, Bronx, NY 10458, United States",0.81
+311,false,true,true,40.86318757,-73.82130653,16836.3,"120 Elgar Pl, Bronx, NY 10475, USA",0.29
+312,true,true,true,40.86246704,-73.89094247,22671.4,"2551 Webster Ave, Bronx, NY 10458, USA",0.77
+313,true,true,true,40.86244816,-73.89096515,22673.1,"2551 Webster Ave, Bronx, NY 10458, USA",0.81
+314,true,true,true,40.86272208,-73.89597303,23095.8,"2501 Valentine Ave, Bronx, NY 10458, USA",0.77
+315,true,true,true,40.86250751,-73.79358895,14507.9,"Bronx, NY 10464, United States",0.70
+316,true,true,true,40.86289042,-73.88426271,22113.9,"457 E Fordham Rd, Bronx, NY 10458, USA",0.76
+317,true,true,true,40.86414471,-73.88555446,22233.1,"2870 Southern Blvd, Bronx, NY 10458, USA",0.32
+318,true,true,true,40.86285825,-73.88433133,22119.4,"457 E Fordham Rd, Bronx, NY 10458, USA",0.80
+319,true,true,true,40.86287325,-73.88429688,22116.6,"457 E Fordham Rd, Bronx, NY 10458, USA",0.80
+320,true,true,true,40.86290787,-73.88423060,22111.3,"465 E Fordham Rd, Bronx, NY 10458, USA",0.80
+321,true,true,true,40.86294879,-73.89764997,23238.4,"2500 Creston Ave, Bronx, NY 10468, USA",0.84
+322,true,true,true,40.86296395,-73.89768580,23241.6,"2500 Creston Ave, Bronx, NY 10468, USA",0.86
+323,true,true,true,40.86420517,-73.90053401,23490.8,"2502 Davidson Ave, Bronx, NY 10468, USA",0.63
+324,true,true,true,40.86439079,-73.82852071,17454.2,"272 Baychester Ave, Bronx, NY 10475, USA",0.52
+325,false,true,true,40.86744019,-73.89052543,22682.0,"2758 Briggs Ave, Bronx, NY 10458, USA",0.29
+326,true,true,true,40.86733464,-73.83011766,17624.8,"346 Baychester Ave, Bronx, NY 10475, United States",0.30
+327,true,true,true,40.86632297,-73.90683355,24038.3,"2323 Sedgwick Ave, Bronx, NY 10468, United States",0.83
+328,true,true,true,40.86633435,-73.90688732,24042.9,"2323 Sedgwick Ave, Bronx, NY 10468, United States",0.85
+329,true,true,true,40.86637189,-73.90705264,24057.1,"2499 Sedgwick Ave, Bronx, NY 10468, USA",0.84
+330,true,true,true,40.86631152,-73.90678567,24034.2,"2323 Sedgwick Ave, Bronx, NY 10468, United States",0.86
+331,true,true,true,40.86638393,-73.90710757,24061.8,"2499 Sedgwick Ave, Bronx, NY 10468, USA",0.85
+332,true,true,true,40.86634653,-73.90692998,24046.6,"2323 Sedgwick Ave, Bronx, NY 10468, United States",0.87
+333,true,true,true,40.86636158,-73.90700538,24053.1,"2499 Sedgwick Ave, Bronx, NY 10468, USA",0.87
+334,true,true,true,40.86639434,-73.90714909,24065.4,"2499 Sedgwick Ave, Bronx, NY 10468, USA",0.85
+335,true,true,true,40.86742012,-73.83892397,18362.0,"2823 Tiemann Ave, Bronx, NY 10469-3413, United States",0.50
+336,true,true,true,40.86709099,-73.87870375,21687.6,"2670 Southern Blvd, Bronx, NY 10458, USA",0.78
+337,true,true,true,40.86711614,-73.90242351,23676.1,"2547 University Ave, Bronx, NY 10468, USA",0.84
+338,true,true,true,40.86711188,-73.87865563,21683.8,"2670 Southern Blvd, Bronx, NY 10458, USA",0.81
+339,true,true,true,40.86714319,-73.90240230,23674.5,"2547 University Ave, Bronx, NY 10468, USA",0.84
+340,true,true,true,40.86839683,-73.90221881,23672.0,"2570 Webb Ave, Bronx, NY 10468, USA",0.60
+341,true,true,true,40.86820077,-73.82458881,17175.3,"2100 Bartow Ave, Bronx, NY 10475, USA",0.83
+342,true,true,true,40.86823059,-73.82456090,17173.4,"2100 Bartow Ave, Bronx, NY 10475, USA",0.83
+343,false,true,true,40.87067847,-73.88092805,21916.1,"3006 Marion Ave, Bronx, NY 10458, United States",0.25
+344,false,true,true,40.87056135,-73.82871412,17555.2,"2057 Bartow Ave, Bronx, NY 10475, USA",0.34
+345,true,true,true,40.86959579,-73.82407005,17153.0,"",0.72
+346,true,true,true,40.86957320,-73.82395630,17143.2,"",0.78
+347,true,true,true,40.86955660,-73.82384356,17133.5,"2191 Bartow Ave, Bronx, NY 10475, USA",0.81
+348,true,true,true,40.87059195,-73.82943242,17615.5,"2049 Bartow Ave, Bronx, NY 10475, USA",0.58
+349,true,true,true,40.87205029,-73.85416859,19700.1,"3218-3222 Yates Ave, Bronx, NY 10469, USA",0.32
+350,true,true,true,40.87348899,-73.83127248,17817.3,"146 Alcott Pl, Bronx, NY 10475, United States",0.30
+351,true,true,true,40.87349177,-73.83131511,17820.9,"146 Alcott Pl, Bronx, NY 10475, United States",0.37
+352,false,true,true,40.87496226,-73.87301504,21316.1,"3232 Webster Ave, Bronx, NY 10467-4903, United States",0.25
+353,true,true,true,40.87359326,-73.89313187,22974.7,"436 East 149th Street, Bronx, NY 10455, USA",0.86
+354,true,true,true,40.87371876,-73.89303559,22968.3,"436 East 149th Street, Bronx, NY 10455, USA",0.81
+355,true,true,true,40.87368323,-73.89306342,22970.2,"436 East 149th Street, Bronx, NY 10455, USA",0.83
+356,true,true,true,40.87363213,-73.89310715,22973.1,"436 East 149th Street, Bronx, NY 10455, USA",0.88
+357,true,true,true,40.87380785,-73.89302533,22968.7,"436 East 149th Street, Bronx, NY 10455, USA",0.84
+358,true,true,true,40.87498309,-73.87300027,21315.2,"3232 Webster Ave, Bronx, NY 10467-4903, United States",0.47
+359,true,true,true,40.87501866,-73.87296308,21312.6,"3254-3354 Parkside Pl, Bronx, NY 10467, USA",0.46
+360,true,true,true,40.87500268,-73.87298003,21313.8,"3254-3354 Parkside Pl, Bronx, NY 10467, USA",0.47
+361,true,true,true,40.87412326,-73.83286765,17961.1,"",0.78
+362,true,true,true,40.87412351,-73.83283223,17958.2,"750 Baychester Ave, Bronx, NY 10475, United States",0.82
+363,true,true,true,40.87435000,-73.83286738,17965.2,"",0.79
+364,true,true,true,40.87435042,-73.83283177,17962.2,"750 Baychester Ave, Bronx, NY 10475, United States",0.82
+365,true,true,true,40.87560926,-73.87507195,21497.6,"3256 Hull Ave, Bronx, NY 10467, USA",0.58
+366,true,true,true,40.87564354,-73.87504535,21496.0,"3256 Hull Ave, Bronx, NY 10467, USA",0.66
+367,true,true,true,40.87566352,-73.87503235,21495.2,"3256 Hull Ave, Bronx, NY 10467, USA",0.69
+368,true,true,true,40.87562661,-73.87505806,21496.8,"3256 Hull Ave, Bronx, NY 10467, USA",0.72
+369,true,true,true,40.87658038,-73.81867335,16832.6,"3 Pelham Bay Rd, Bronx, NY 10464, United States",0.32
+370,true,true,true,40.87638589,-73.82923287,17702.4,"147 Dreiser Loop, Bronx, NY 10475, USA",0.52
+371,true,true,true,40.87689993,-73.81002160,16125.2,"3 Pelham Bay Park W, Bronx, NY 10465, USA",0.30
+372,false,true,true,40.87879577,-73.82030626,17015.5,"701 Co Op City Blvd, Bronx, NY 10464, United States",0.25
+373,true,true,true,40.87905084,-73.86272641,20530.4,"760 E 214th St, Bronx, NY 10467-6178, United States",0.40
+374,true,true,true,40.87879700,-73.82030646,17015.6,"701 Co Op City Blvd, Bronx, NY 10464, United States",0.68
+375,true,true,true,40.88035112,-73.91902175,25234.3,"",0.51
+376,true,true,true,40.88058211,-73.82432098,17387.0,"2280 Givan Ave, Bronx, NY 10475, United States",0.40
+377,true,true,true,40.87988963,-73.87715515,21743.6,"206 E Gun Hill Rd, Bronx, NY 10467, USA",0.78
+378,true,true,true,40.87985320,-73.87716924,21744.1,"206 E Gun Hill Rd, Bronx, NY 10467, USA",0.83
+379,false,true,true,40.88177414,-73.88042236,22049.6,"32 E Gun Hill Rd, Bronx, NY 10467, USA",0.27
+380,true,true,true,40.88071492,-73.87819308,21844.8,"3484 Bainbridge Ave, Bronx, NY 10467, USA",0.68
+381,true,true,true,40.88044513,-73.88048628,22030.3,"111 E 210th St, Bronx, NY 10467, USA",0.80
+382,true,true,true,40.88042189,-73.88106746,22078.1,"3424 Kossuth Ave, Bronx, NY 10467, USA",0.83
+383,true,true,true,40.88048814,-73.88047071,22029.8,"3424 Kossuth Ave, Bronx, NY 10467, USA",0.81
+384,true,true,true,40.88048440,-73.88104543,22077.4,"3424 Kossuth Ave, Bronx, NY 10467, USA",0.84
+385,true,true,true,40.88054883,-73.88102545,22076.9,"3424 Kossuth Ave, Bronx, NY 10467, USA",0.83
+386,true,true,true,40.88061246,-73.88100515,22076.4,"3424 Kossuth Ave, Bronx, NY 10467, USA",0.83
+387,true,true,true,40.88067732,-73.88098406,22075.8,"3424 Kossuth Ave, Bronx, NY 10467, USA",0.83
+388,true,true,true,40.88108479,-73.87944506,21955.6,"110 E Gun Hill Rd, Bronx, NY 10467, USA",0.69
+389,true,true,true,40.88104887,-73.87932136,21944.7,"110 E Gun Hill Rd, Bronx, NY 10467, USA",0.81
+390,true,true,true,40.88105517,-73.87945458,21955.8,"110 E Gun Hill Rd, Bronx, NY 10467, USA",0.81
+391,true,true,true,40.88132167,-73.88025579,22027.3,"3444 Rochambeau Ave, Bronx, NY 10467, United States",0.73
+392,true,true,true,40.88104602,-73.87928030,21941.2,"110 E Gun Hill Rd, Bronx, NY 10467, USA",0.84
+393,true,true,true,40.88102652,-73.87917468,21932.1,"",0.85
+394,true,true,true,40.88103308,-73.87921654,21935.7,"110 E Gun Hill Rd, Bronx, NY 10467, USA",0.85
+395,true,true,true,40.88114505,-73.87940381,21953.3,"110 E Gun Hill Rd, Bronx, NY 10467, USA",0.81
+396,true,true,true,40.88115197,-73.87943802,21956.2,"110 E Gun Hill Rd, Bronx, NY 10467, USA",0.81
+397,true,true,true,40.88129354,-73.88010746,22014.4,"100 E Gun Hill Rd, Bronx, NY 10467, USA",0.83
+398,true,true,true,40.88130082,-73.88015902,22018.9,"100 E Gun Hill Rd, Bronx, NY 10467, USA",0.83
+399,true,true,true,40.88131093,-73.88020918,22023.2,"100 E Gun Hill Rd, Bronx, NY 10467, USA",0.83
+400,true,true,true,40.88256759,-73.92130193,25460.2,"2621 Palisade Ave, Bronx, NY 10463, United States",0.66
+401,true,true,true,40.88315755,-73.89322420,23137.6,"56 Van Cortlandt Ave W, Bronx, NY 10463, USA",0.44
+402,true,true,true,40.88338336,-73.90016463,23717.7,"171 W 236th St, Bronx, NY 10463, USA",0.43
+403,true,true,true,40.88259258,-73.92131319,25461.5,"2621 Palisade Ave, Bronx, NY 10463, United States",0.76
+404,true,true,true,40.88366429,-73.88880026,22780.3,"3977 Sedgwick Ave, Bronx, NY 10463, USA",0.41
+405,true,true,true,40.88487665,-73.91490804,24969.0,"3333 Henry Hudson Pkwy, Bronx, NY 10463, United States",0.33
+406,true,true,true,40.88470454,-73.91376709,24871.1,"3320 Henry Hudson Parkway East, Bronx, NY 10463, USA",0.40
+407,true,true,true,40.88470110,-73.91373937,24868.8,"3320 Henry Hudson Parkway East, Bronx, NY 10463, USA",0.41
+408,true,true,true,40.88366405,-73.88878880,22779.4,"3977 Sedgwick Ave, Bronx, NY 10463, USA",0.78
+409,true,true,true,40.88492516,-73.91486235,24966.1,"3335 Henry Hudson Pkwy W, Bronx, NY 10463, USA",0.43
+410,true,true,true,40.88493828,-73.91483046,24963.7,"3335 Henry Hudson Pkwy W, Bronx, NY 10463, USA",0.66
+411,true,true,true,40.88491575,-73.91486021,24965.7,"3335 Henry Hudson Pkwy W, Bronx, NY 10463, USA",0.71
+412,true,true,true,40.88641999,-73.90160175,23894.9,"3817 Tibbett Ave, Bronx, NY 10463, USA",0.79
+413,true,true,true,40.88640442,-73.90157967,23892.7,"3817 Tibbett Ave, Bronx, NY 10463, USA",0.81
+414,true,true,true,40.88643834,-73.90162821,23897.4,"3817 Tibbett Ave, Bronx, NY 10463, USA",0.84
+415,false,true,true,40.88862598,-73.86859544,21218.2,"4199 Webster Ave, Bronx, NY 10470, United States",0.34
+416,true,true,true,40.88799476,-73.85906204,20419.5,"753 E 225th St, Bronx, NY 10466, USA",0.58
+417,true,true,true,40.88797528,-73.85907048,20419.8,"753 E 225th St, Bronx, NY 10466, USA",0.65
+418,true,true,true,40.88860158,-73.82190128,17398.0,"4250 Boston Post Rd, Bronx, NY 10475, USA",0.42
+419,true,true,true,40.88818734,-73.91612067,25132.3,"55 Clinton Pl, Bronx, NY 10801, USA",0.84
+420,false,true,true,40.89050622,-73.91185362,24826.6,"3935 Blackstone Ave, Bronx, NY 10471, USA",0.26
+421,true,true,true,40.88974640,-73.82705768,17850.1,"3945 Provost Ave, Bronx, NY 10466, USA",0.37
+422,true,true,true,40.88914096,-73.91380059,24959.3,"3777 Independence Ave, Bronx, NY 10463, United States",0.78
+423,true,true,true,40.88913831,-73.91376765,24956.5,"3777 Independence Ave, Bronx, NY 10463, United States",0.79
+424,true,true,true,40.88894596,-73.83332233,18337.4,"1472 E 233rd St, Bronx, NY 10466, USA",0.71
+425,true,true,true,40.89052818,-73.91187020,24828.4,"3935 Blackstone Ave, Bronx, NY 10471, USA",0.42
+426,true,true,true,40.88983966,-73.91732199,25264.8,"4483 Douglas Ave, Bronx, NY 10463, USA",0.81
+427,true,true,true,40.88981993,-73.91734491,25266.3,"4477 Douglas Ave, Bronx, NY 10463, USA",0.83
+428,true,true,true,40.89336177,-73.86104474,20719.5,"600 Bronx Blvd, Bronx, NY 10467, USA",0.55
+429,true,true,true,40.89430160,-73.87926855,22234.2,"",0.41
+430,true,true,true,40.89335651,-73.86102524,20717.8,"600 Bronx Blvd, Bronx, NY 10467, USA",0.84
+431,true,true,true,40.89339068,-73.86100315,20716.9,"600 Bronx Blvd, Bronx, NY 10467, USA",0.83
+432,true,true,true,40.89431104,-73.87902861,22214.8,"4200 Jerome Ave, Bronx, NY 10467, United States",0.54
+433,true,true,true,40.89429398,-73.87910904,22220.9,"",0.65
+434,true,true,true,40.89430059,-73.87919291,22227.9,"",0.77
+435,true,true,true,40.89527551,-73.90895762,24694.5,"4761 Henry Hudson Pkwy W, Bronx, NY 10471, USA",0.71
+436,true,true,true,40.89527774,-73.90893799,24692.9,"4761 Henry Hudson Pkwy W, Bronx, NY 10471, USA",0.73
+437,true,true,true,40.89673997,-73.87081887,21609.4,"143E E 233rd St, Bronx, NY 10470, USA",0.35
+438,true,true,true,40.89679149,-73.90879635,24717.6,"4901 Henry Hudson Pkwy, Bronx, NY 10471, USA",0.82
+439,false,true,true,40.89940750,-73.91616861,25387.0,"4701 Palisade Ave, Bronx, NY 10471, USA",0.27
+440,true,true,true,40.89940513,-73.91623297,25392.2,"4701 Palisade Ave, Bronx, NY 10471, USA",0.44
+441,true,true,true,40.90370834,-73.91165876,25130.7,"5400 Palisade Ave, Bronx, NY 10471, USA",0.39
+442,true,true,true,40.90360779,-73.90463451,24555.5,"5500 Riverdale Ave, Bronx, NY 10471, USA",0.58
+443,true,true,true,40.90535487,-73.84906031,20125.1,"700 E 242nd St, Bronx, NY 10470, USA",0.33
+444,false,true,true,40.90650983,-73.90900674,24993.6,"61 Sigma Pl, Bronx, NY 10471, USA",0.46
+445,true,true,true,40.90653622,-73.90899843,24993.7,"61 Sigma Pl, Bronx, NY 10471, USA",0.78
+446,true,true,true,40.90754405,-73.90438741,24649.1,"5923 Riverdale Ave, Bronx, NY 10471, USA",0.41
+447,true,true,true,40.91018451,-73.90930060,25126.7,"5901 Palisade Ave, Bronx, NY 10471, USA",0.54
+448,true,true,true,40.91024460,-73.90805178,25027.5,"5959 Palisade Ave, Bronx, NY 10471, USA",0.81
+449,true,true,true,40.91026762,-73.90803045,25026.5,"5959 Palisade Ave, Bronx, NY 10471, USA",0.81
+450,true,true,true,40.91036317,-73.90862637,25077.6,"5959 Palisade Ave, Bronx, NY 10471, USA",0.78
+451,true,true,true,40.91028884,-73.90800589,25025.2,"5959 Palisade Ave, Bronx, NY 10471, USA",0.85
+452,true,false,true,40.91360513,-73.90207990,24652.9,"534 Riverdale Ave, Yonkers, NY 10705, USA",0.72
+453,true,false,true,40.91391134,-73.90353507,24779.9,"537 Riverdale Ave, Yonkers, NY 10705, United States",0.85
+454,true,false,true,40.91389695,-73.90339216,24768.0,"537 Riverdale Ave, Yonkers, NY 10705, United States",0.86

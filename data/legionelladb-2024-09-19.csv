@@ -1,0 +1,169 @@
+ID,Year,City,County,Season,Cases,Deaths,"Mean Age",Strain,"Outbreak Source",Maintenance,Treatment,Biofilms,DOI
+1,1949,Virginia,USA,Spring/Summer,12,-1,66,"L. pneumophila","Mist/Steam Device","Facilities were cleaned regularly, but their conditions were not adequate","Hyperchlorination and subsequent frequent chlorination",No,10.1080/00039896.1985.10545885
+10,1957,Minesota,USA,Spring/Summer,78,2,54,Lp1-4,Industry,Unknown,Unknown,No,"10.1093/oxfordjournals.aje.a113516 "
+100,2010,"New York",USA,Spring/Summer,3,0,-1,Lp1,"Water System",Unknown,Unknown,No,"PMID: 24005226"
+101,2010,"New York",USA,Spring/Summer,2,0,-1,Lp1,"Water System","Lack of adequate maintenance",Unknown,No,"PMID: 24005226"
+102,2010,"New York",USA,Spring/Summer,5,-1,-1,Lp1,"Water System",Unknown,Unknown,No,"PMID: 24005226"
+103,2010,Pennsylvania,USA,Spring/Summer,3,1,-1,Lp1,"Water System","Lack of adequate maintenance (desinfection system not working properly at the time of the outbreak; cross-connection between potable and non-potable water)",Unknown,No,"PMID: 24005226"
+104,2010,Pennsylvania,USA,Spring/Summer,2,0,-1,Lp1,"Water System",Unknown,Unknown,No,"PMID: 24005226"
+105,2010,Utah,USA,Spring/Summer,2,1,-1,Lp1,"Water System",Unknown,Unknown,No,"PMID: 24005226"
+106,2010,Texas,USA,Spring/Summer,4,3,-1,Lp1,Unknown,Unknown,Unknown,No,"PMID: 24005226"
+107,2013,Ohio,USA,Spring/Summer,41,6,88,Lp1,"Cooling Tower","Inadequate water management (irregular desinfection procedures)",Unknown,Yes,"PMID: 26738313"
+108,2008,Carcaixent,Spain,Spring/Summer,45,-1,-1,"L. pneumophila",Unknown,Unknown,Unknown,No,10.1016/j.ijmm.2013.11.002
+109,1988,London,UK,Spring/Summer,70,3,-1,Unknown,"Cooling Tower",Unknown,Unknown,No,"10.1016/s0140-6736(88)92089-2; 10.1016/S1473-3099(14)70713-3"
+11,1981,Vermont,USA,Spring/Summer,34,0,28,Lp6,"Water System","Lack of adequate maintenance (no free chlorine and no maintenance records); Inadequate exhaust fans","Facilities were closed",No,"10.1093/oxfordjournals.aje.a113953;  10.3390/ijerph15081612"
+110,2014,Alabama,USA,Autumn/Winter,10,0,58,Lp1,"Water System",Unknown,Unknown,Yes,10.1017/ice.2016.281
+111,2006,Catalonia,Spain,Spring/Summer,12,0,66,Lp1,"Mist/Steam Device","Lack of adequate maintenance",Unknown,No,10.1017/S0950268810000841
+112,2015,"New York",USA,Spring/Summer,138,16,55,Lp1,"Cooling Tower","Lack of adequate maintenance (excessive mist generation)",Unknown,Yes,"10.3201/eid2311.170308; 10.1177/0033354916689620; 10.3201/eid2311.161584"
+113,2015,"Indian Ocean",Australia,Spring/Summer,3,0,52,Lp1,"Water System","Biofilm was present in the facilities","Showerhead were recommended to be changed, to avoid biofilm accumulation",Yes,10.3201/eid2407.171978
+114,1982,Michigan,USA,Spring/Summer,14,0,-1,Lp6,"Water System","Use of bromine instead of chlorine",Unknown,No,"10.1001/jama.1985.03350280091026; 10.3390/ijerph15081612"
+115,2002,Mataró,Spain,Spring/Summer,113,2,59,Lp1,"Cooling Tower",Unknown,"Facilities were closed",No,"10.1007/s10156-013-0595-8; 10.1111/j.1469-0691.2006.01447.x "
+116,1999,Alcoi,Spain,Unknown,180,11,65,Lp1,"Cooling Tower",Unknown,Unknown,No,"10.1016/j.ijheh.2013.08.002; 10.1007/s10096-002-0819-9 "
+117,2018,Modena,Italy,Spring/Summer,3,0,69,Lp1,Unknown,"Facilities followed suggested maintenance measures",Unknown,No,10.1016/j.ijid.2019.11.002
+118,2009,"Ulm/New Ulm",Germany,Autumn/Winter,64,4,68,Lp1,"Cooling Tower",Unknown,"Facilities were closed; Facilities were cleaned",No,"10.1016/j.ijmm.2015.08.001; 10.1016/j.ijmm.2016.01.001"
+119,2003,Hereford,UK,Autumn/Winter,28,2,60,Lp1,"Cooling Tower","The facility was inoperative for some time before the outbreak","Facilities were closed; Facilities were cleaned",No,"10.1016/j.rmed.2006.11.026; 10.2807/ese.17.49.20331-en"
+12,1992,Fairfield,Australia,Spring/Summer,26,6,58,Lp1,Unknown,Unknown,"Cooling towers were asked to be closed or to carry out new maintenance procedures",No,10.1111/j.1753-6405.1994.tb00214.x
+120,1995,"New York",USA,Spring/Summer,12,1,46,"L. micdadei","Water System","Lack of adequate maintenance guidelines (chlorination was used periodically but failed to eliminate Legionella species; a better prevention system is required)","Superheating and flushing",No,10.1016/s0002-9343(99)00459-3
+121,1999,Kapellen,Belgium,Autumn/Winter,55,5,49,Lp1,Unknown,"Lack of adequate maintenance (no water change in a hot water system); Aerosol formation","An early alert by a physician was essential to contain the outbreak",No,10.1016/s0033-3506(02)00011-2
+122,1987,Lochgoilhead,Scotland,Autumn/Winter,170,0,32,"L. micdadei","Water System","Lack of adequate maintenance (the bromine disinfection system was faulty); Aerosol formation","Facilities were disinfected",No,"10.1016/S0140-6736(89)91319-6; 10.3390/ijerph15081612"
+123,1993,Lanzarote,Spain,Unknown,14,2,59,"L. pneumophila","Water System","Lack of adequate maintenance (use of very high doses of polyphosphates, that could enhance stagnancy and corrosion)",Unknown,No,10.1016/s0273-1223(97)00277-1
+124,2008,Miyazaki,Japan,Unknown,295,7,-1,Unknown,"Water System",Unknown,Unknown,No,10.1016/S1473-3099(14)70713-3
+125,2011,Corfu,Greece,Spring/Summer,15,1,61,Lp1,Unknown,"Lack of adequate maintenance; High temperatures favoured growth",Unknown,No,"10.1016/S1473-3099(14)70713-3; 10.2807/ese.17.32.20240-en "
+126,2012,Quebec,Canada,Spring/Summer,182,13,-1,Lp1,"Cooling Tower","Lack of adequate maintenance","Delayed response; Lack of information on how to deal with an outbreak",Yes,"10.1016/S1473-3099(14)70713-3; 10.3389/fmicb.2014.00182"
+127,2014,Sherbrooke,Canada,Spring/Summer,2,0,-1,Lp5,"Water System","Design defect; Biofilm was present in the facilities",Unknown,Yes,10.1017/ice.2016.205
+128,1985,Stafford,UK,Spring/Summer,103,22,62,"Lp1 Pontiac 1a","Air Conditioning System","Lack of adequate maintenance; Aerosol formation",Chlorination,No,"10.1017/s0950268800047385; 10.1016/S1473-3099(14)70713-3"
+129,1986,Gloucester,UK,Spring/Summer,15,3,55,Lp1,"Cooling Tower","Lack of adequate maintenance","Facilities were requested to be cleaned; New maintenance procedures were proposed",No,10.1017/s0950268800048767
+13,2011,Kanagawa,Japan,Unknown,9,-1,-1,Lp1,"Water System",Unknown,Unknown,No,10.1128/AEM.00721-18
+130,1988,Nottingham,UK,Spring/Summer,12,2,71,Lp1,"Water System","Lack of adequate maintenance","Water heating; Installation of a silver and copper ions supply",No,10.1017/s0950268800050731
+131,1999,Lycksele,Sweden,Spring/Summer,29,0,41,"L. micdadei","Water System","Lack of adequate maintenance (there were no registers for disinfection procedures)",Chlorination,No,"10.1017/s0950268801005313; 10.3390/ijerph15081612"
+132,2003,Rome,Italy,Spring/Summer,15,1,70,Lp1,"Cooling Tower","Lack of na adequate regist of the existing cooling towers","Facilities were disinfected and control measures were implemented",Yes,10.1017/S0950268805004115
+133,2006,Pamplona,Spain,Spring/Summer,146,0,61,"Lp1 Pontiac 1","Cooling Tower","Facilities followed the suggested maintenance measures",Unknown,No,"10.1017/S0950268807009077; 10.1016/S1473-3099(14)70713-3"
+134,2007,Tairawhiti,"New Zealand",Autumn/Winter,9,0,38,"L. longbeachae serogroup 2","Potting Mix","Use of bromine instead of chlorine; Workers didn't use personal protection equipment",Unknown,Yes,10.1017/S0950268809990835
+135,2005,Christchurch,"New Zealand",Spring/Summer,19,3,71,Lp1,"Cooling Tower","Lack of a centralized register of cooling towers",Unknown,Yes,"10.1017/S0950268812000994; 10.1016/S1473-3099(14)70713-3"
+136,2002,Barrow-in-Furness,UK,Spring/Summer,179,7,63,Lp1,"Cooling Tower","Lack of adequate maintenance (stagant water,  no biocide and no microbiological monitoring)",Unknown,No,"10.1017/S0950268813002483; 10.1016/S1473-3099(14)70713-3"
+137,2010,Michigan,USA,Spring/Summer,67,0,50,Lp1,"Cooling Tower","Lack of adequate maintenance (no detectable biocide); High temperatures favoured growth; Proximity to fresh-air intakes and public areas",Unknown,Yes,"10.1017/S0950268813003440; PMID: 24005226"
+138,2013,Brisbane,Australia,Spring/Summer,3,-1,-1,Lp1,"Water System","Facilities followed the suggested maintenance measures; Biofilm was presnt in the facility",Unknown,Yes,"10.1017/S0950268814000375;  10.1093/cid/civ870"
+139,2005,"Cesano Maderno",Italy,Autumn/Winter,43,5,71,Lp1,Unknown,"Lack of adequate maintenance",Unknown,No,10.1017/S0950268814003094
+14,2012,Yamagata,Japan,Unknown,3,-1,-1,Lp1,"Water System",Unknown,Unknown,No,10.1128/AEM.00721-18
+140,2012,Calgary,Canada,Autumn/Winter,8,0,-1,Lp1,Unknown,Unknown,Unknown,No,10.1017/S0950268816001965
+141,2015,"North Island","New Zealand",Autumn/Winter,13,0,51,"Lp1, L. longbeachae serogroup 1","Cooling Tower","Lack of adequate maintenance (no avaikabke biocide); Biofilm and sediments were present in the facility",Unknown,Yes,10.1017/S0950268817001170
+142,2015,California,USA,Spring/Summer,78,0,56,Lp1,"Cooling Tower","Biofilm was present in the facilities; High temperatures favoured growth","Facilities were cleaned; New maintenance procedures were proposed",Yes,10.1017/S0950268818000110
+143,2016,Dendermonde,Belgium,Spring/Summer,13,0,55,Lp1,"Cooling Tower","Cooling towers followed suggested maintenance measures; A car wash had inadequate maintenance (defficiences in warm water storage and production)","Facilities were closed; Facilities were cleaned; Management procedures were adjusted to include regular bioshock treatments ",No,10.1017/S0950268819001821
+144,2014,Michigan,USA,Spring/Summer,88,12,-1,"L. pneumophila","Water System",Unknown,"Change in water source",Yes,"10.1021/acs.est.7b01589; 10.1289/EHP5663"
+145,2016,Sydney,Australia,Autumn/Winter,9,1,50,Lp1,Unknown,"Facilities followed suggested maintenance measures","Cooling towers were requested to be desinfected",No,10.1038/s41426-018-0051-z
+146,2016,Sydney,Australia,Spring/Summer,3,0,-1,Lp1,Unknown,Unknown,Unknown,No,10.1038/s41426-018-0051-z
+147,2016,Sydney,Australia,Spring/Summer,3,0,-1,Lp1,Unknown,Unknown,Unknown,No,10.1038/s41426-018-0051-z
+148,2016,Sydney,Australia,Spring/Summer,6,1,60,Lp1,Unknown,"Lack of adequate maintenance (in several cooling towers)",Unknown,No,10.1038/s41426-018-0051-z
+149,2016,Sydney,Australia,Spring/Summer,5,0,-1,Lp1,Unknown,Unknown,Unknown,No,10.1038/s41426-018-0051-z
+15,2015,Iwate,Japan,Unknown,13,-1,-1,Lp1,"Water System",Unknown,Unknown,No,10.1128/AEM.00721-18
+150,2000,Haifa,Israel,Spring/Summer,4,1,46,Lp3,"Water System","Lack of adequate maintenance guidelines (superheating and chlorination were used periodically but failed to eliminate Legionella species; a better prevention system is required)","Superheating and hyperchlorination",No,10.1038/sj.bmt.1703628
+151,1976,Philadelphia,USA,Spring/Summer,182,29,55,"L. pneumophila",Unknown,Unknown,Unknown,No,"10.1056/NEJM197712012972201 "
+152,2009,Osaka,Japan,Unknown,2,-1,-1,Lp1,"Water System",Unknown,Unknown,No,10.1128/AEM.00721-18
+153,2015,Miyazaki,Japan,Unknown,2,-1,-1,Lp1,"Water System",Unknown,Unknown,No,10.1128/AEM.00721-18
+154,2016,Nagano,Japan,Unknown,2,-1,-1,Lp1,"Water System",Unknown,Unknown,No,10.1128/AEM.00721-18
+155,2018,Bresso,Italy,Spring/Summer,52,5,73,Lp1,"Water System","The decorative fountain in which the outbreak strain was found was associated with little to no aerosol production and was characterized by water recirculation. Metereological conditions may have enhanced aerosol emission.","Facilities were closed; Facilities with positive results were cleaned",Yes,10.2807/1560-7917.ES.2020.25.20.1900523
+156,2006,England,UK,Unknown,115,-1,-1,Unknown,"Water System",Unknown,Unknown,No,10.1016/j.puhe.2020.05.061
+157,2013,England,UK,Unknown,2,-1,-1,"L. pneumophila","Water System",Unknown,Unknown,No,10.1016/j.puhe.2020.05.061
+158,2005,England,UK,Unknown,3,-1,-1,"L. pneumophila","Water System",Unknown,Unknown,No,10.1016/j.puhe.2020.05.061
+159,2002,England,UK,Unknown,4,-1,-1,Unknown,"Water System",Unknown,Unknown,No,10.1016/j.puhe.2020.05.061
+16,1982,"St. Croix Virgin Islands",USA,Unknown,12,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+160,2002,England,UK,Unknown,2,-1,-1,Unknown,"Water System",Unknown,Unknown,No,10.1016/j.puhe.2020.05.061
+161,2019,Quebec,Canada,Spring/Summer,14,1,68,Lp1,Unknown,"Cooling towers with missing or abnormal monthly monitoring were identified","Cooling towers were ordered to be disenfected",Yes,10.14745/ccdr.v46i78a01
+162,2020,Porto,Portugal,Autumn/Winter,81,13,74,Unknown,"Cooling Tower",Unknown,"The cooling towers considered to be a probable source of Legionella were closed",No,10.20344/amp.15823
+163,2018,Toronto,Canada,Spring/Summer,2,0,78,Lp1,Unknown,Unknown,Unknown,No,10.3390/ijerph17010332
+164,2018,Toronto,Canada,Spring/Summer,4,0,63,Lp1,Unknown,Unknown,Unknown,No,10.3390/ijerph17010332
+164,2018,Toronto,Canada,Spring/Summer,4,0,63,Lp1,Unknown,Unknown,Unknown,No,10.3390/ijerph17010332
+165,2018,Wisconsin,USA,Unknown,13,3,62,Lp1,"Water System","A silver-copper ionization system was used, without supplemental chlorination. There was mixing between clean water and water from pipes that were not routinely flushed. The ionization system was adapted to a new configuration and water contamination may have occurred.","Showering activities were restricted to avoid more infections. Hyperchlorination was used. The ionization system was set up to the old configuration. Showerheads and faucets filters were installed. Old water heaters were removed, as were their associated dead end water pipes",No,10.1016/j.ajic.2021.02.013
+166,2018,Stockholm,Sweden,Spring/Summer,41,2,70,"L. longbeachae, L. bozemanii","Potting Mix",Unknown,Unknown,No,10.2807/1560-7917.ES.2021.26.7.1900702
+167,2018,Brescia,Italy,Spring/Summer,33,2,61,Lp2,"Water System",Unknown,"Disinfection of industrial and non-industrial plants was requested. A cooling towers notification register was implemented.",No,10.2807/1560-7917.ES.2021.26.25.2001961
+17,1993,"Rhode Island",USA,Unknown,17,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+18,1994,Connecticut,USA,Unknown,22,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+19,1994,Delaware,USA,Unknown,21,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+2,1998,Wisconsin,USA,Autumn/Winter,45,0,-1,"L. micdadei","Water System","Use of bromine; regular shock-based chlorine treatments",Unknown,No,"10.1086/324211; 10.3390/ijerph15081612"
+20,1995,Pennsylvania,USA,Unknown,22,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+21,1996,Virginia,USA,Unknown,23,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+22,1996,Missouri,USA,Unknown,3,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+23,1997,California,USA,Unknown,8,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+24,2001,Nevada,USA,Unknown,21,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+25,2002,Vermont,USA,Unknown,13,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+26,2002,Pennsylvania,USA,Unknown,12,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+27,2003,"St. Croix Virgin Islands",USA,Unknown,3,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+28,2005,"North Carolina",USA,Unknown,4,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+29,2005,"New Mexico",USA,Unknown,2,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+3,2001,Ohio,USA,Autumn/Winter,4,2,48,Lp1,Industry,Unknown,Unknown,No,10.1086/368171
+30,2006,Texas,USA,Unknown,6,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+31,2009,Georgia,USA,Unknown,5,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+32,2010,Michigan,USA,Unknown,29,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+33,2010,Utah,USA,Unknown,2,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+34,2011,Washington,USA,Unknown,3,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+35,2012,Nevada,USA,Unknown,3,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+36,2012,Illinois,USA,Unknown,11,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+37,2012,Wisconsin,USA,Unknown,3,-1,-1,Lp1,Unknown,Unknown,Unknown,No,10.1128/JCM.01973-13
+38,2010,Mississipi,USA,Unknown,9,1,-1,Lp1,"Cooling Tower",Unknown,Unknown,No,"10.1128/JCM.01973-13; PMID: 24005226"
+39,1985,Glasgow,UK,Autumn/Winter,16,5,60,Lp1,"Cooling Tower","Lack of adequate maintenance","Contaminated facilities were closed; An early diagnosis was essential to contain the outbreak",No,10.1136/thx.42.8.596
+4,2006,Pas-de-Calais,France,Autumn/Winter,104,18,76,Lp1,"Cooling Tower","Design defect; Biofilm was present in the facilities",Unknown,Yes,"10.1086/498575; 10.1016/S1473-3099(14)70713-3"
+40,2004,Lidköping,Sweden,Spring/Summer,32,2,62,Lp1,"Cooling Tower","Biofilm was present in the facilities; Lack of a drip-eliminator",Unknown,Yes,10.1186/1471-2334-12-313
+41,2009,Maryland,USA,Autumn/Winter,10,1,70,Lp1,"Water System","Lack of adequate maintenance (no detectable biocide)",Unknown,No,"10.1186/1471-2334-13-291; 10.1128/JCM.01973-13; PMID: 24005226"
+42,2005,"South Dakota",USA,Unknown,18,1,67,Lp1,"Water System","Lack of adequate maintenance",Unknown,Yes,"10.1186/1471-2334-7-93; 10.1016/S1473-3099(14)70713-3; 10.1128/JCM.01973-13"
+43,2012,Edinburgh,UK,Spring/Summer,92,2,56,"L. pneumophila",Unknown,Unknown,Unknown,No,"10.1186/PREACCEPT-1675723368141690; 10.2807/ese.17.28.20216-en; 10.1016/S1473-3099(14)70713-3"
+44,2005,Fredrikstad,Norway,Spring/Summer,135,10,67,Lp1,"Cooling Tower","Facilities were not operating according to national guidelines","Facilities were closed",No,"10.1186/s12879-015-0903-2; 10.1016/S1473-3099(14)70713-3; 10.2807/ese.17.49.20331-en"
+45,2015,Manzanares,Spain,Autumn/Winter,593,4,-1,Lp1,"Water System","Lack of adequate maintenance","Facilities were closed; Facilities were cleaned",No,10.1186/s12879-018-3605-8
+46,1980,"Los Angeles",USA,Spring/Summer,26,-1,-1,"Lp1, Lp4","Water System","Lack of adequate maintenance",Chlorination,No,"10.1289/ehp.8562337; 10.1001/jama.1985.03350340064018"
+47,2011,Pittsburgh,USA,Autumn/Winter,22,6,67,Lp1,"Water System",Unknown,Chlorination,Yes,"10.1513/AnnalsATS.201510-715BC; 10.1017/ice.2017.235; 10.1093/cid/civ153"
+48,2000,Ishioka,Japan,Spring/Summer,34,3,62,"Lp1, Lp6","Water System","Design defect (untreated water flowed back to the pool); Lack of adequate maintenance",Unknown,No,"10.2169/internalmedicine.42.806; 10.3390/ijerph15081612"
+49,2002,Illinois,USA,Spring/Summer,50,0,20,"L. micdadei, L. maceachernii","Water System","Lack of adequate maintenance (low levels of bromine disinfectant due to extensive use of the facilities); Aerosol formation",Hyperchlorination,Yes,"10.2310/7060.2005.12401; 10.3390/ijerph15081612"
+5,2010,Wisconsin,USA,Autumn/Winter,8,0,64,Lp1,"Water System","Facilities followed the suggested maintenance measures; High temperatures favoured growth","Facilities were shut down; Facilities were cleaned; Reccomendations were made to avoid having decorative fountains in healthcare facilities",No,"10.1086/663711; PMID: 24005226"
+50,2013,Warstein,Germany,Spring/Summer,78,1,63,Lp1,Unknown,Unknown,"Facilities were closed; Events were cancelled; Lack of information on how to deal with na outbreak",No,"10.2807/1560-7917.ES.2015.20.46.30064; 10.2807/1560-7917.ES.2017.22.45.17-00137"
+51,2014,"North Zealand",Denmark,Spring/Summer,10,1,-1,Lp1,Unknown,Unknown,Unknown,No,10.2807/1560-7917.ES.2017.22.25.30558
+52,2016,Dubai,Dubai,Autumn/Winter,51,0,66,"Lp1, Lp13, Lp2-14",Unknown,Unknown,Unknown,No,10.2807/1560-7917.ES.2017.22.38.30618
+53,2017,Basel,Switzerland,Spring/Summer,27,-1,-1,Lp1,"Cooling Tower","Lack of adequate maintenance","Maintenance procedures were corrected",Yes,10.2807/1560-7917.ES.2019.24.4.1800192
+54,2013,Scotland,UK,Spring/Summer,6,0,70,"L. longbeachae",Unknown,"Lack of maintenance guidelines",Unknown,No,"10.2807/1560-7917.es2013.18.50.20656 "
+55,2014,"Vila Franca de Xira",Portugal,Autumn/Winter,403,10,58,Lp1,"Cooling Tower",Unknown,Unknown,No,"10.2807/1560-7917.es2014.19.50.20991; 10.1016/j.rppnen.2017.01.007; 10.1007/s00484-018-1520-8"
+56,2006,Amsterdam,Netherlands,Spring/Summer,31,3,56,Unknown,"Cooling Tower","Lack of adequate maintenance","Facilities were closed",No,10.2807/ese.13.38.18983-en
+57,2010,"South East Wales",Wales,Spring/Summer,31,2,65,Lp1,Unknown,Unknown,"Cooling towers were requested to be disinfected; Maintenance and training procedures imporvements were suggested in six companies",No,10.2807/ese.15.42.19691-en
+58,2011,Lazise,Italy,Spring/Summer,17,0,57,Lp1,Unknown,Unknown,Unknown,No,10.2807/ese.16.40.19982-en
+59,2011,Calp,Spain,Autumn/Winter,18,4,70,"L. pneumophila",Unknown,Unknown,Unknown,Yes,10.2807/ese.17.08.20093-en
+6,2008,Nicosia,Cyprus,Autumn/Winter,9,3,1,"Lp3, Lp1","Mist/Steam Device","Possibly tap water was used in the humidifier instead of sterile water; Misuse of humidiers in a hospital",Unknown,Yes,10.1093/cid/cit176
+60,2012,Stoke-on-Trent,UK,Spring/Summer,23,2,64,Lp1,"Water System",Unknown,Unknown,Yes,"10.2807/ese.17.37.20271-en; 10.1016/S1473-3099(14)70713-3"
+61,1998,Paris,France,Spring/Summer,20,4,51,Lp1,"Cooling Tower",Unknown,"Cooling towers were requested to be disinfected",No,"10.2807/esm.04.11.00060-en; 10.1016/j.ijid.2010.09.007"
+62,2001,Stavenger,Norway,Spring/Summer,28,6,54,Lp1,"Cooling Tower",Unknown,"Cooling towers were requested to be disinfected",No,10.2807/esw.05.47.02059-en
+63,2006,Paris,France,Spring/Summer,26,2,-1,Lp1,"Cooling Tower",Unknown,"Facilities were closed; Facilities were cleaned",No,10.2807/esw.11.39.03055-en
+64,2006,Lorquin,France,Autumn/Winter,12,0,69,Lp1,"Water System","Biofilm was present in the facilities",Unknown,Yes,10.2807/esw.11.41.03063-en
+65,2010,Celje,Slovenia,Spring/Summer,15,4,-1,Lp1,"Water System","Lack of adequate maintenance (stagant water)","Facilities were cleaned; After thermal and chemical disinfection a patient fell ill",No,10.3109/00365548.2011.635313
+66,1990,Värnamo,Sweden,Autumn/Winter,31,3,66,Lp1,"Water System","Lack of adequate maintenance (no water temperature system); Aerosol formation","Water heating",No,10.3109/00365549409008615
+67,1999,Bovenkaspel,Netherlands,Autumn/Winter,188,21,66,Lp1,"Water System","Lack of maintenance guidelines",Unknown,No,"10.3201/eid0801.010176; 10.1016/S1473-3099(14)70713-3"
+68,2001,Murcia,Spain,Spring/Summer,800,6,-1,Lp1,"Cooling Tower","Lack of maintenance guidelines; Lack of adequate maintenance","Facilities were closed; Facilities were cleaned",No,"10.3201/eid0908.030337; 10.1016/S1473-3099(14)70713-3; 10.2807/ese.17.49.20331-en"
+69,2009,Alcoi,Spain,Spring/Summer,11,1,70,Lp1,Construction,"Lack of water treatment; High temperatures favoured growth",Unknown,Yes,"10.3201/eid1609.100248; 10.2807/ese.17.49.20331-en"
+7,2012,Pennsylvania,USA,Autumn/Winter,22,6,67,Lp1,"Water System","Facilities followed the suggested maintenance measures but collected lower volumes; Swab analysis differed from the guidelines; Construction may have consumed desinfectant species","Facilities were closed; Superheating; Hyperchlorination; Instalation of a chlorine drip",Yes,"10.1093/cid/civ153; 10.1128/JCM.01973-13"
+70,2012,Zweibrücken,Germany,Spring/Summer,20,0,-1,Lp1,"Cooling Tower","Lack of a centralized register of cooling towers","A code of conduct  for maintenance of towers was introduced after the outbreak",No,10.3201/eid2207.151738
+71,2015,"Kanagawa and Shizuoka",Japan,Spring/Summer,7,0,66,Lp1,"Water System",Unknown,Unknown,No,10.3201/eid2302.161012
+72,2006,"New York",USA,Spring/Summer,29,1,57,Unknown,Unknown,Unknown,Unknown,No,10.3201/eid2311.161584
+73,2008,"New York",USA,Spring/Summer,7,0,64,Unknown,Unknown,Unknown,Unknown,No,10.3201/eid2311.161584
+74,2014,"New York",USA,Autumn/Winter,8,0,58,Lp1,"Cooling Tower",Unknown,"Facilities were cleaned",No,10.3201/eid2311.161584
+75,2015,"New York",USA,Spring/Summer,4,-1,-1,Lp1,"Water System",Unknown,"Adoption of a new water filtration system",Yes,10.3201/eid2311.161584
+76,2015,"New York",USA,Spring/Summer,16,0,55,Lp1,Unknown,Unknown,Unknown,No,10.3201/eid2311.161584
+77,2015,"New York",USA,Autumn/Winter,15,1,56,Lp1,"Cooling Tower",Unknown,"Facilities were cleaned",No,10.3201/eid2311.161584
+78,2016,Boxtel,Netherlands,Autumn/Winter,6,0,72,Lp1,"Biologic Wastewater Treatment Plant",Unknown,Unknown,No,10.3201/eid2410.180906
+79,2017,Boxtel,Netherlands,Spring/Summer,8,0,72,Lp1,"Biologic Wastewater Treatment Plant","Lack of adequate maintenance (filtration system was not working properly)","Facilities were closed; Filtration system was replaced",No,10.3201/eid2410.180906
+8,1965,Washington,USA,Spring/Summer,81,14,-1,Unknown,Construction,"Lack of adequate maintenance",Unknown,No,10.1093/infdis/138.4.512
+80,2018,Toronto,Canada,Spring/Summer,3,0,69,Lp1,Unknown,Unknown,Unknown,No,10.3390/ijerph17010332
+81,2017,Geneve,Switzerland,Spring/Summer,34,3,62,Lp1,Unknown,"Lack of adequate maintenance",Unknown,No,10.4414/smw.2018.14687
+82,2000,Melbourne,Australia,Spring/Summer,129,4,64,Lp1,"Cooling Tower","Lack of adequate maintenance (no detectable biocide)",Unknown,No,"10.5694/j.1326-5377.2004.tb06093.x; 10.1016/S1473-3099(14)70713-3; 10.1016/j.ijheh.2013.08.002 "
+83,1987,Vermont,USA,Unknown,3,0,-1,Lp1,"Water System",Unknown,Unknown,No,"10.7326/0003-4819-107-4-596_1; 10.3390/ijerph15081612"
+84,2008,Fredrikstad,Norway,Spring/Summer,5,2,81,Lp1,"Mist/Steam Device","Facilities followed the suggested maintenance measures","Facilities were closed",No,"PMID: 18801321"
+85,2009,Nevada,USA,Autumn/Winter,10,0,-1,Lp1,"Water System",Unknown,Unknown,No,"PMID: 24005226"
+86,2009,"New York",USA,Autumn/Winter,3,1,-1,Lp1,"Water System",Unknown,Unknown,No,"PMID: 24005226"
+87,2009,Illinois,USA,Autumn/Winter,8,2,-1,Lp1,"Water System","Lack of adequate maintenance",Unknown,No,"PMID: 24005226"
+88,2009,Ohio,USA,Autumn/Winter,2,0,-1,"Legionella sp.",Unknown,Unknown,Unknown,No,"PMID: 24005226"
+89,2009,"New York",USA,Spring/Summer,3,2,-1,Lp1,"Water System",Unknown,Unknown,No,"PMID: 24005226"
+9,1968,Michigan,USA,Spring/Summer,144,0,-1,Unknown,"Air Conditioning System","Design defect","Facilities were closed; Facilities were cleaned; The system was rebuilt",No,"10.1093/oxfordjournals.aje.a112517 "
+90,2009,Florida,USA,Spring/Summer,2,0,-1,"Legionella sp.","Water System",Unknown,Unknown,No,"PMID: 24005226"
+91,2009,"South Carfolina",USA,Spring/Summer,3,0,-1,Lp1,"Water System",Unknown,Unknown,No,"PMID: 24005226"
+92,2009,Utah,USA,Spring/Summer,5,0,-1,Lp1,"Water System",Unknown,Unknown,No,"PMID: 24005226"
+93,2010,Nevada,USA,Autumn/Winter,4,1,-1,Lp1,"Water System",Unknown,Unknown,No,"PMID: 24005226"
+94,2010,Ohio,USA,Autumn/Winter,3,0,-1,"L. pneumophila","Water System",Unknown,Unknown,No,"PMID: 24005226"
+95,2010,Utah,USA,Autumn/Winter,3,0,-1,Lp1,"Water System",Unknown,Unknown,No,"PMID: 24005226"
+96,2010,"New York",USA,Autumn/Winter,4,0,-1,Lp1,"Mist/Steam Device",Unknown,Unknown,No,"PMID: 24005226"
+97,2010,Georgia,USA,Spring/Summer,4,0,-1,Lp1,"Water System",Unknown,Unknown,No,"PMID: 24005226"
+98,2010,Maryland,USA,Spring/Summer,2,0,-1,Lp1,"Water System","Lack of adequate maintenance (desinfection system not working properly at the time of the outbreak)",Unknown,No,"PMID: 24005226"
+99,2010,"New York",USA,Spring/Summer,3,1,-1,Lp1,"Water System","Lack of adequate maintenance (desinfection system not working properly at the time of the outbreak)",Unknown,No,"PMID: 24005226"

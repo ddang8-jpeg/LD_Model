@@ -1,0 +1,1001 @@
+count,disease,ethnicity,gender,il,race,stateorcounty,year,yeartext
+1,Legionellosis,NotHispNotLatino,Male,IL,Asian,S,2005,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2005,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2005,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2005,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2005,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,BlackAfricanAmer,S,2005,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,BlackAfricanAmer,S,2005,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,BlackAfricanAmer,S,2005,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,Other,S,2005,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,Unknown,S,2005,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2005,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,White,S,2005,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,White,S,2005,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,White,S,2005,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,White,S,2005,Year
+3,Legionellosis,NotHispNotLatino,Female,IL,White,S,2005,Year
+10,Legionellosis,NotHispNotLatino,Female,IL,White,S,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,White,S,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,White,S,2005,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,White,S,2005,Year
+3,Legionellosis,NotHispNotLatino,Male,IL,White,S,2005,Year
+3,Legionellosis,NotHispNotLatino,Male,IL,White,S,2005,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,White,S,2005,Year
+11,Legionellosis,NotHispNotLatino,Male,IL,White,S,2005,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2005,Year
+2,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2005,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2005,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2005,Year
+2,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2005,Year
+2,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2005,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2006,Year
+3,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2006,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2006,Year
+4,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2006,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2006,Year
+4,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,Multiple Races,S,2006,Year
+1,Legionellosis,Hispanic or Latino,Female,IL,Other,S,2006,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,Unknown,S,2006,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,Unknown,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,Unknown,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Unknown,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Unknown,S,2006,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2006,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2006,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2006,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2006,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2006,Year
+2,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2006,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2006,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2006,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2006,Year
+1,Legionellosis,Hispanic or Latino,Female,IL,White,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,White,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,White,S,2006,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,White,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,White,S,2006,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,White,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,White,S,2006,Year
+4,Legionellosis,NotHispNotLatino,Female,IL,White,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,White,S,2006,Year
+17,Legionellosis,NotHispNotLatino,Female,IL,White,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,White,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,White,S,2006,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,White,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,White,S,2006,Year
+3,Legionellosis,NotHispNotLatino,Male,IL,White,S,2006,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,White,S,2006,Year
+6,Legionellosis,NotHispNotLatino,Male,IL,White,S,2006,Year
+9,Legionellosis,NotHispNotLatino,Male,IL,White,S,2006,Year
+4,Legionellosis,NotHispNotLatino,Male,IL,White,S,2006,Year
+25,Legionellosis,NotHispNotLatino,Male,IL,White,S,2006,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2006,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2006,Year
+2,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2006,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2006,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2006,Year
+2,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2007,Year
+3,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2007,Year
+3,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2007,Year
+4,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2007,Year
+5,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2007,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,BlackAfricanAmer,S,2007,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,BlackAfricanAmer,S,2007,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,Other,S,2007,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,Other,S,2007,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,Unknown,S,2007,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,Unknown,S,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Unknown,S,2007,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2007,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2007,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2007,Year
+3,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,White,S,2007,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,White,S,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,White,S,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,White,S,2007,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,White,S,2007,Year
+5,Legionellosis,NotHispNotLatino,Female,IL,White,S,2007,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,White,S,2007,Year
+10,Legionellosis,NotHispNotLatino,Female,IL,White,S,2007,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,White,S,2007,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,White,S,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,White,S,2007,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,White,S,2007,Year
+4,Legionellosis,NotHispNotLatino,Male,IL,White,S,2007,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,White,S,2007,Year
+4,Legionellosis,NotHispNotLatino,Male,IL,White,S,2007,Year
+21,Legionellosis,NotHispNotLatino,Male,IL,White,S,2007,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2007,Year
+3,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2007,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2007,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2007,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2007,Year
+4,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Asian,S,2008,Year
+3,Legionellosis,NotHispNotLatino,Male,IL,Asian,S,2008,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2008,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2008,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2008,Year
+3,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2008,Year
+6,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2008,Year
+2,Legionellosis,UnkwnNotClassified,Female,IL,BlackAfricanAmer,S,2008,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,BlackAfricanAmer,S,2008,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,BlackAfricanAmer,S,2008,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,Other,S,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Other,S,2008,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,Unknown,S,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Unknown,S,2008,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2008,Year
+3,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2008,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2008,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2008,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2008,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,White,S,2008,Year
+3,Legionellosis,NotHispNotLatino,Female,IL,White,S,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,White,S,2008,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,White,S,2008,Year
+5,Legionellosis,NotHispNotLatino,Female,IL,White,S,2008,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,White,S,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Champaign,Unknown,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,Champaign,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Champaign,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2009,Year
+2,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2009,Year
+3,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2009,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2009,Year
+3,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2009,Year
+6,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2009,Year
+3,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2009,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2009,Year
+1,Legionellosis,UnkwnNotClassified,Female,Cook,Other,C,2009,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,Other,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,Unknown,C,2009,Year
+2,Legionellosis,UnkwnNotClassified,Female,Cook,Unknown,C,2009,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,Unknown,C,2009,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,Unknown,C,2009,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,White,C,2009,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,White,C,2009,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,White,C,2009,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,White,C,2009,Year
+3,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2009,Year
+5,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2009,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2009,Year
+4,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2009,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2009,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2009,Year
+6,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Dekalb,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Dupage,BlackAfricanAmer,C,2009,Year
+1,Legionellosis,UnkwnNotClassified,Male,Dupage,BlackAfricanAmer,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2009,Year
+3,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2009,Year
+1,Legionellosis,UnkwnNotClassified,Female,Dupage,White,C,2009,Year
+1,Legionellosis,UnkwnNotClassified,Male,Kane,Unknown,C,2009,Year
+2,Legionellosis,NotHispNotLatino,Male,Kane,White,C,2009,Year
+1,Legionellosis,UnkwnNotClassified,Male,Kane,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Kankakee,White,C,2009,Year
+1,Legionellosis,UnkwnNotClassified,Male,Kendall,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Lake,Asian,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,Lake,White,C,2009,Year
+2,Legionellosis,NotHispNotLatino,Female,Lake,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Lake,White,C,2009,Year
+2,Legionellosis,NotHispNotLatino,Male,Lake,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Lake,White,C,2009,Year
+6,Legionellosis,NotHispNotLatino,Male,Lake,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Lasalle,White,C,2009,Year
+1,Legionellosis,UnkwnNotClassified,Female,Macon,White,C,2009,Year
+1,Legionellosis,UnkwnNotClassified,Female,Macon,White,C,2009,Year
+2,Legionellosis,NotHispNotLatino,Female,Madison,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Madison,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Mchenry,White,C,2009,Year
+1,Legionellosis,UnkwnNotClassified,Female,Mchenry,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,St Clair,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,Tazewell,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,Will,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Will,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Will,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Will,White,C,2009,Year
+1,Legionellosis,UnkwnNotClassified,Female,Will,White,C,2009,Year
+2,Legionellosis,UnkwnNotClassified,Male,Winnebago,Unknown,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,White,C,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,White,C,2009,Year
+1,Legionellosis,UnkwnNotClassified,Female,Winnebago,White,C,2009,Year
+1,Legionellosis,UnkwnNotClassified,Female,Winnebago,White,C,2009,Year
+1,Legionellosis,UnkwnNotClassified,Male,Winnebago,White,C,2009,Year
+1,Legionellosis,UnkwnNotClassified,Female,Champaign,Unknown,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,Champaign,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Champaign,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Champaign,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,Asian,C,2010,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,BlackAfricanAmer,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2010,Year
+2,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2010,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2010,Year
+4,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2010,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2010,Year
+12,Legionellosis,NotHispNotLatino,Female,IL,White,S,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,White,S,2008,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,White,S,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,White,S,2008,Year
+5,Legionellosis,NotHispNotLatino,Male,IL,White,S,2008,Year
+11,Legionellosis,NotHispNotLatino,Male,IL,White,S,2008,Year
+6,Legionellosis,NotHispNotLatino,Male,IL,White,S,2008,Year
+5,Legionellosis,NotHispNotLatino,Male,IL,White,S,2008,Year
+14,Legionellosis,NotHispNotLatino,Male,IL,White,S,2008,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2008,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2008,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2008,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2008,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2008,Year
+2,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2008,Year
+3,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Asian,S,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2009,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2009,Year
+3,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2009,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2009,Year
+4,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2009,Year
+6,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2009,Year
+3,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2009,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2009,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,BlackAfricanAmer,S,2009,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,Other,S,2009,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Other,S,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,Unknown,S,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Unknown,S,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Unknown,S,2009,Year
+2,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2009,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2009,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2009,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2009,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2009,Year
+5,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2009,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,White,S,2009,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,White,S,2009,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,White,S,2009,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,White,S,2009,Year
+3,Legionellosis,NotHispNotLatino,Female,IL,White,S,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,White,S,2009,Year
+5,Legionellosis,NotHispNotLatino,Female,IL,White,S,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,White,S,2009,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,White,S,2009,Year
+13,Legionellosis,NotHispNotLatino,Female,IL,White,S,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,White,S,2009,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,White,S,2009,Year
+4,Legionellosis,NotHispNotLatino,Male,IL,White,S,2009,Year
+3,Legionellosis,NotHispNotLatino,Male,IL,White,S,2009,Year
+7,Legionellosis,NotHispNotLatino,Male,IL,White,S,2009,Year
+7,Legionellosis,NotHispNotLatino,Male,IL,White,S,2009,Year
+9,Legionellosis,NotHispNotLatino,Male,IL,White,S,2009,Year
+3,Legionellosis,NotHispNotLatino,Male,IL,White,S,2009,Year
+16,Legionellosis,NotHispNotLatino,Male,IL,White,S,2009,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2009,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2009,Year
+2,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2009,Year
+3,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2009,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2009,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2009,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2009,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,Asian,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Asian,S,2010,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,BlackAfricanAmer,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2010,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2010,Year
+3,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2010,Year
+5,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2010,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2010,Year
+3,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2010,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2010,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2010,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,BlackAfricanAmer,S,2010,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,BlackAfricanAmer,S,2010,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,BlackAfricanAmer,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Multiple Races,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,NtvHawaiianOthPacifc,S,2010,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,Other,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,Other,S,2010,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,Unknown,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,Unknown,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Unknown,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Unknown,S,2010,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2010,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2010,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2010,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,White,S,2010,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,White,S,2010,Year
+2,Legionellosis,Hispanic or Latino,Male,IL,White,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,White,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,White,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,White,S,2010,Year
+3,Legionellosis,NotHispNotLatino,Female,IL,White,S,2010,Year
+7,Legionellosis,NotHispNotLatino,Female,IL,White,S,2010,Year
+3,Legionellosis,NotHispNotLatino,Female,IL,White,S,2010,Year
+9,Legionellosis,NotHispNotLatino,Female,IL,White,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,White,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,White,S,2010,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,White,S,2010,Year
+6,Legionellosis,NotHispNotLatino,Male,IL,White,S,2010,Year
+9,Legionellosis,NotHispNotLatino,Male,IL,White,S,2010,Year
+11,Legionellosis,NotHispNotLatino,Male,IL,White,S,2010,Year
+4,Legionellosis,NotHispNotLatino,Male,IL,White,S,2010,Year
+28,Legionellosis,NotHispNotLatino,Male,IL,White,S,2010,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2010,Year
+2,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2010,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2010,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2010,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2010,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2010,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2010,Year
+4,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Asian,S,2011,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2011,Year
+3,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2011,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2011,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2011,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2011,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2011,Year
+8,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,BlackAfricanAmer,S,2011,Year
+1,Legionellosis,Hispanic or Latino,Female,IL,Other,S,2011,Year
+1,Legionellosis,Hispanic or Latino,Female,IL,Other,S,2011,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,Other,S,2011,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,Other,S,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Other,S,2011,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,Unknown,S,2011,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,Unknown,S,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Unknown,S,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Unknown,S,2011,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2011,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2011,Year
+1,Legionellosis,Hispanic or Latino,Female,IL,White,S,2011,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,White,S,2011,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,White,S,2011,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,White,S,2011,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,White,S,2011,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,White,S,2011,Year
+3,Legionellosis,NotHispNotLatino,Female,IL,White,S,2011,Year
+4,Legionellosis,NotHispNotLatino,Female,IL,White,S,2011,Year
+18,Legionellosis,NotHispNotLatino,Female,IL,White,S,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,White,S,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,White,S,2011,Year
+5,Legionellosis,NotHispNotLatino,Male,IL,White,S,2011,Year
+7,Legionellosis,NotHispNotLatino,Male,IL,White,S,2011,Year
+15,Legionellosis,NotHispNotLatino,Male,IL,White,S,2011,Year
+4,Legionellosis,NotHispNotLatino,Male,IL,White,S,2011,Year
+7,Legionellosis,NotHispNotLatino,Male,IL,White,S,2011,Year
+25,Legionellosis,NotHispNotLatino,Male,IL,White,S,2011,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2011,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2011,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2011,Year
+3,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2011,Year
+2,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2011,Year
+2,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2011,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,Asian,S,2012,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2012,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2012,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2012,Year
+6,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2012,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2012,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2012,Year
+3,Legionellosis,NotHispNotLatino,Female,IL,BlackAfricanAmer,S,2012,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2012,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2012,Year
+6,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2012,Year
+3,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2012,Year
+3,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2012,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2012,Year
+4,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2012,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,BlackAfricanAmer,S,2012,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,BlackAfricanAmer,S,2012,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,Multiple Races,S,2012,Year
+1,Legionellosis,Hispanic or Latino,Female,IL,Other,S,2012,Year
+1,Legionellosis,Hispanic or Latino,Female,IL,Other,S,2012,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,Other,S,2012,Year
+2,Legionellosis,Hispanic or Latino,Male,IL,Other,S,2012,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Other,S,2012,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Other,S,2012,Year
+1,Legionellosis,Hispanic or Latino,Female,IL,Unknown,S,2012,Year
+1,Legionellosis,NotHispNotLatino,Female,IL,Unknown,S,2012,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,Unknown,S,2012,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,Unknown,S,2012,Year
+2,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2012,Year
+2,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2012,Year
+4,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2012,Year
+3,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2012,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2012,Year
+6,Legionellosis,UnkwnNotClassified,Female,IL,Unknown,S,2012,Year
+2,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2012,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2012,Year
+2,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2012,Year
+5,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2012,Year
+5,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2012,Year
+4,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2012,Year
+4,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2012,Year
+7,Legionellosis,UnkwnNotClassified,Male,IL,Unknown,S,2012,Year
+1,Legionellosis,Hispanic or Latino,Female,IL,White,S,2012,Year
+1,Legionellosis,Hispanic or Latino,Female,IL,White,S,2012,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,White,S,2012,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,White,S,2012,Year
+1,Legionellosis,Hispanic or Latino,Male,IL,White,S,2012,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,White,S,2012,Year
+3,Legionellosis,NotHispNotLatino,Female,IL,White,S,2012,Year
+2,Legionellosis,NotHispNotLatino,Female,IL,White,S,2012,Year
+3,Legionellosis,NotHispNotLatino,Female,IL,White,S,2012,Year
+3,Legionellosis,NotHispNotLatino,Female,IL,White,S,2012,Year
+4,Legionellosis,NotHispNotLatino,Female,IL,White,S,2012,Year
+14,Legionellosis,NotHispNotLatino,Female,IL,White,S,2012,Year
+1,Legionellosis,NotHispNotLatino,Male,IL,White,S,2012,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,White,S,2012,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,White,S,2012,Year
+2,Legionellosis,NotHispNotLatino,Male,IL,White,S,2012,Year
+8,Legionellosis,NotHispNotLatino,Male,IL,White,S,2012,Year
+4,Legionellosis,NotHispNotLatino,Male,IL,White,S,2012,Year
+12,Legionellosis,NotHispNotLatino,Male,IL,White,S,2012,Year
+6,Legionellosis,NotHispNotLatino,Male,IL,White,S,2012,Year
+8,Legionellosis,NotHispNotLatino,Male,IL,White,S,2012,Year
+28,Legionellosis,NotHispNotLatino,Male,IL,White,S,2012,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2012,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2012,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2012,Year
+1,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2012,Year
+2,Legionellosis,UnkwnNotClassified,Female,IL,White,S,2012,Year
+1,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2012,Year
+2,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2012,Year
+2,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2012,Year
+3,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2012,Year
+3,Legionellosis,UnkwnNotClassified,Male,IL,White,S,2012,Year
+1,Legionellosis,NotHispNotLatino,Female,Champaign,BlackAfricanAmer,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,Champaign,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,Asian,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2005,Year
+1,Legionellosis,UnkwnNotClassified,Female,Cook,BlackAfricanAmer,C,2005,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,BlackAfricanAmer,C,2005,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,BlackAfricanAmer,C,2005,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,Other,C,2005,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,Unknown,C,2005,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,White,C,2005,Year
+4,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2005,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2005,Year
+4,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2005,Year
+1,Legionellosis,UnkwnNotClassified,Female,Cook,White,C,2005,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,White,C,2005,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2005,Year
+1,Legionellosis,Hispanic or Latino,Male,Kane,Unknown,C,2005,Year
+3,Legionellosis,NotHispNotLatino,Female,Kankakee,White,C,2005,Year
+1,Legionellosis,Hispanic or Latino,Male,Lake,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Female,Lake,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Female,Lake,White,C,2005,Year
+3,Legionellosis,NotHispNotLatino,Female,Lake,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,Lake,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,Lake,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,Lasalle,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,Madison,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,Mchenry,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,Rock Island,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,Sangamon,White,C,2005,Year
+1,Legionellosis,UnkwnNotClassified,Male,Sangamon,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Female,St Clair,BlackAfricanAmer,C,2005,Year
+1,Legionellosis,UnkwnNotClassified,Female,St Clair,White,C,2005,Year
+1,Legionellosis,Hispanic or Latino,Male,Will,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Female,Will,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,Will,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,White,C,2005,Year
+1,Legionellosis,UnkwnNotClassified,Female,Winnebago,White,C,2005,Year
+1,Legionellosis,UnkwnNotClassified,Male,Winnebago,White,C,2005,Year
+1,Legionellosis,NotHispNotLatino,Female,Champaign,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2006,Year
+3,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2006,Year
+4,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2006,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2006,Year
+3,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2006,Year
+1,Legionellosis,Hispanic or Latino,Female,Cook,Other,C,2006,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,Unknown,C,2006,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,Unknown,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,Unknown,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,Unknown,C,2006,Year
+1,Legionellosis,UnkwnNotClassified,Female,Cook,Unknown,C,2006,Year
+1,Legionellosis,UnkwnNotClassified,Female,Cook,Unknown,C,2006,Year
+2,Legionellosis,UnkwnNotClassified,Female,Cook,Unknown,C,2006,Year
+3,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2006,Year
+7,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2006,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2006,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2006,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2006,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2006,Year
+11,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2006,Year
+1,Legionellosis,UnkwnNotClassified,Female,Cook,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,Dekalb,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,Dekalb,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Dekalb,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Dekalb,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Dekalb,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Dekalb,White,C,2006,Year
+1,Legionellosis,UnkwnNotClassified,Female,Dupage,Unknown,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2006,Year
+2,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2006,Year
+2,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2006,Year
+1,Legionellosis,UnkwnNotClassified,Male,Dupage,White,C,2006,Year
+1,Legionellosis,UnkwnNotClassified,Male,Dupage,White,C,2006,Year
+1,Legionellosis,UnkwnNotClassified,Female,Kane,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Kankakee,BlackAfricanAmer,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,Kankakee,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,Kankakee,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,Kankakee,White,C,2006,Year
+2,Legionellosis,NotHispNotLatino,Male,Kankakee,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,Kendall,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,Lake,White,C,2006,Year
+3,Legionellosis,NotHispNotLatino,Female,Lake,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Lake,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Lake,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Lake,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Lasalle,White,C,2006,Year
+1,Legionellosis,UnkwnNotClassified,Male,Mchenry,Unknown,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Mchenry,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Mchenry,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,Peoria,Unknown,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Peoria,White,C,2006,Year
+1,Legionellosis,UnkwnNotClassified,Male,Rock Island,Unknown,C,2006,Year
+1,Legionellosis,UnkwnNotClassified,Female,Sangamon,Unknown,C,2006,Year
+2,Legionellosis,NotHispNotLatino,Male,Sangamon,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Sangamon,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,St Clair,BlackAfricanAmer,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,St Clair,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,Tazewell,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Tazewell,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Tazewell,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,Will,BlackAfricanAmer,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Will,BlackAfricanAmer,C,2006,Year
+1,Legionellosis,Hispanic or Latino,Female,Will,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Female,Will,White,C,2006,Year
+3,Legionellosis,NotHispNotLatino,Female,Winnebago,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,White,C,2006,Year
+3,Legionellosis,NotHispNotLatino,Male,Winnebago,White,C,2006,Year
+1,Legionellosis,NotHispNotLatino,Male,Champaign,BlackAfricanAmer,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,Champaign,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,Champaign,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,Champaign,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2007,Year
+3,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2007,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2007,Year
+4,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2007,Year
+5,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2007,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,BlackAfricanAmer,C,2007,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,BlackAfricanAmer,C,2007,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,Other,C,2007,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,Other,C,2007,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,Unknown,C,2007,Year
+1,Legionellosis,UnkwnNotClassified,Female,Cook,Unknown,C,2007,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,Unknown,C,2007,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,Unknown,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2007,Year
+3,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2007,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2007,Year
+3,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2007,Year
+1,Legionellosis,UnkwnNotClassified,Female,Cook,White,C,2007,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,White,C,2007,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,White,C,2007,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,Dekalb,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,Dekalb,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Dekalb,White,C,2007,Year
+1,Legionellosis,Hispanic or Latino,Male,Dupage,Unknown,C,2007,Year
+1,Legionellosis,UnkwnNotClassified,Male,Dupage,Unknown,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2007,Year
+2,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2007,Year
+3,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2007,Year
+1,Legionellosis,UnkwnNotClassified,Male,Dupage,White,C,2007,Year
+2,Legionellosis,UnkwnNotClassified,Male,Dupage,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Kane,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Kane,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,Kankakee,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Kankakee,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Kendall,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,Lake,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,Lake,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Lake,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Lake,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Mchenry,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Mchenry,White,C,2007,Year
+2,Legionellosis,NotHispNotLatino,Male,Mchenry,White,C,2007,Year
+1,Legionellosis,UnkwnNotClassified,Male,Mchenry,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Peoria,BlackAfricanAmer,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,St Clair,BlackAfricanAmer,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,St Clair,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Will,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Will,White,C,2007,Year
+1,Legionellosis,UnkwnNotClassified,Female,Will,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,Winnebago,BlackAfricanAmer,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Female,Winnebago,BlackAfricanAmer,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,Unknown,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,White,C,2007,Year
+4,Legionellosis,NotHispNotLatino,Male,Winnebago,White,C,2007,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,Asian,C,2008,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,Asian,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2008,Year
+2,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2008,Year
+2,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2008,Year
+6,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2008,Year
+1,Legionellosis,UnkwnNotClassified,Female,Cook,BlackAfricanAmer,C,2008,Year
+1,Legionellosis,UnkwnNotClassified,Female,Cook,BlackAfricanAmer,C,2008,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,BlackAfricanAmer,C,2008,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,Other,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,Other,C,2008,Year
+2,Legionellosis,UnkwnNotClassified,Female,Cook,Unknown,C,2008,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,Unknown,C,2008,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2008,Year
+2,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2008,Year
+8,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2008,Year
+4,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2008,Year
+6,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2008,Year
+7,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2008,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,Dekalb,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Dekalb,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Dupage,BlackAfricanAmer,C,2008,Year
+1,Legionellosis,UnkwnNotClassified,Female,Dupage,Unknown,C,2008,Year
+2,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2008,Year
+1,Legionellosis,UnkwnNotClassified,Female,Dupage,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,Kane,BlackAfricanAmer,C,2008,Year
+1,Legionellosis,Hispanic or Latino,Male,Kane,Unknown,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,Kane,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Kane,White,C,2008,Year
+2,Legionellosis,NotHispNotLatino,Male,Kane,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Kane,White,C,2008,Year
+1,Legionellosis,UnkwnNotClassified,Female,Kane,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Kendall,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Lake,Asian,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Lake,BlackAfricanAmer,C,2008,Year
+2,Legionellosis,NotHispNotLatino,Female,Lake,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,Lasalle,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Lasalle,White,C,2008,Year
+1,Legionellosis,UnkwnNotClassified,Male,Lasalle,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Madison,Unknown,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Madison,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Madison,White,C,2008,Year
+1,Legionellosis,UnkwnNotClassified,Female,Madison,White,C,2008,Year
+1,Legionellosis,UnkwnNotClassified,Male,Madison,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,Mchenry,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Mchenry,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Mchenry,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Mchenry,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,Peoria,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Rock Island,White,C,2008,Year
+1,Legionellosis,UnkwnNotClassified,Male,Rock Island,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,St Clair,BlackAfricanAmer,C,2008,Year
+1,Legionellosis,UnkwnNotClassified,Female,St Clair,BlackAfricanAmer,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,St Clair,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Will,BlackAfricanAmer,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Will,White,C,2008,Year
+2,Legionellosis,NotHispNotLatino,Male,Will,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Female,Winnebago,White,C,2008,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,White,C,2008,Year
+3,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2010,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2010,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,Multiple Races,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,NtvHawaiianOthPacifc,C,2010,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,Other,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,Other,C,2010,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,Unknown,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,Unknown,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,Unknown,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,Unknown,C,2010,Year
+1,Legionellosis,UnkwnNotClassified,Female,Cook,Unknown,C,2010,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2010,Year
+4,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2010,Year
+6,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2010,Year
+5,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2010,Year
+4,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2010,Year
+10,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2010,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Dekalb,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Dupage,BlackAfricanAmer,C,2010,Year
+2,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2010,Year
+5,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,Kane,BlackAfricanAmer,C,2010,Year
+1,Legionellosis,Hispanic or Latino,Male,Kane,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,Kane,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Kane,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Kane,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Kane,White,C,2010,Year
+3,Legionellosis,NotHispNotLatino,Male,Kane,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Kankakee,White,C,2010,Year
+1,Legionellosis,UnkwnNotClassified,Male,Kendall,White,C,2010,Year
+1,Legionellosis,UnkwnNotClassified,Male,Kendall,White,C,2010,Year
+1,Legionellosis,Hispanic or Latino,Male,Lake,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,Lake,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,Lake,White,C,2010,Year
+2,Legionellosis,NotHispNotLatino,Female,Lake,White,C,2010,Year
+3,Legionellosis,NotHispNotLatino,Male,Lake,White,C,2010,Year
+1,Legionellosis,UnkwnNotClassified,Female,Lake,White,C,2010,Year
+1,Legionellosis,UnkwnNotClassified,Female,Lake,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Lasalle,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Lasalle,White,C,2010,Year
+2,Legionellosis,NotHispNotLatino,Male,Mchenry,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Mchenry,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Mchenry,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Mchenry,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Mclean,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Mclean,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Mclean,White,C,2010,Year
+1,Legionellosis,UnkwnNotClassified,Female,Peoria,White,C,2010,Year
+1,Legionellosis,UnkwnNotClassified,Male,Rock Island,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,St Clair,BlackAfricanAmer,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Will,Asian,C,2010,Year
+1,Legionellosis,UnkwnNotClassified,Male,Will,BlackAfricanAmer,C,2010,Year
+1,Legionellosis,UnkwnNotClassified,Male,Will,BlackAfricanAmer,C,2010,Year
+1,Legionellosis,Hispanic or Latino,Male,Will,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Will,White,C,2010,Year
+1,Legionellosis,UnkwnNotClassified,Female,Will,White,C,2010,Year
+1,Legionellosis,UnkwnNotClassified,Male,Will,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,BlackAfricanAmer,C,2010,Year
+1,Legionellosis,UnkwnNotClassified,Male,Winnebago,BlackAfricanAmer,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Female,Winnebago,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,White,C,2010,Year
+1,Legionellosis,UnkwnNotClassified,Male,Winnebago,White,C,2010,Year
+1,Legionellosis,UnkwnNotClassified,Male,Winnebago,White,C,2010,Year
+1,Legionellosis,NotHispNotLatino,Male,Champaign,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Champaign,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2011,Year
+3,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2011,Year
+2,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2011,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2011,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2011,Year
+8,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,BlackAfricanAmer,C,2011,Year
+1,Legionellosis,Hispanic or Latino,Female,Cook,Other,C,2011,Year
+1,Legionellosis,Hispanic or Latino,Female,Cook,Other,C,2011,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,Other,C,2011,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,Other,C,2011,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,Unknown,C,2011,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,Unknown,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,Unknown,C,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,Unknown,C,2011,Year
+1,Legionellosis,Hispanic or Latino,Female,Cook,White,C,2011,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,White,C,2011,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2011,Year
+10,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2011,Year
+3,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2011,Year
+7,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2011,Year
+3,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2011,Year
+12,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Dupage,Other,C,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,Dupage,Unknown,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2011,Year
+2,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2011,Year
+2,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Dupage,White,C,2011,Year
+1,Legionellosis,UnkwnNotClassified,Female,Dupage,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Kane,Asian,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Female,Kane,White,C,2011,Year
+2,Legionellosis,NotHispNotLatino,Female,Kane,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Kane,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Kane,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Kane,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Kane,White,C,2011,Year
+2,Legionellosis,NotHispNotLatino,Female,Kankakee,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Kankakee,White,C,2011,Year
+2,Legionellosis,NotHispNotLatino,Male,Lake,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Lake,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Lake,White,C,2011,Year
+2,Legionellosis,NotHispNotLatino,Male,Lake,White,C,2011,Year
+1,Legionellosis,UnkwnNotClassified,Female,Lake,White,C,2011,Year
+1,Legionellosis,UnkwnNotClassified,Female,Lake,White,C,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,Lake,White,C,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,Lasalle,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Female,Madison,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Madison,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Mchenry,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Mchenry,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Female,Mclean,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Mclean,White,C,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,Rock Island,Unknown,C,2011,Year
+1,Legionellosis,UnkwnNotClassified,Female,Rock Island,White,C,2011,Year
+1,Legionellosis,UnkwnNotClassified,Female,Rock Island,White,C,2011,Year
+1,Legionellosis,UnkwnNotClassified,Female,St Clair,Unknown,C,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,St Clair,Unknown,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,St Clair,White,C,2011,Year
+3,Legionellosis,NotHispNotLatino,Male,St Clair,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Tazewell,Unknown,C,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,Tazewell,Unknown,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Female,Tazewell,White,C,2011,Year
+2,Legionellosis,NotHispNotLatino,Male,Will,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,BlackAfricanAmer,C,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,Winnebago,Unknown,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,White,C,2011,Year
+1,Legionellosis,NotHispNotLatino,Male,Winnebago,White,C,2011,Year
+1,Legionellosis,UnkwnNotClassified,Female,Winnebago,White,C,2011,Year
+2,Legionellosis,UnkwnNotClassified,Male,Winnebago,White,C,2011,Year
+1,Legionellosis,UnkwnNotClassified,Male,Champaign,White,C,2012,Year
+1,Legionellosis,UnkwnNotClassified,Male,Champaign,White,C,2012,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2012,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2012,Year
+5,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2012,Year
+2,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2012,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2012,Year
+3,Legionellosis,NotHispNotLatino,Female,Cook,BlackAfricanAmer,C,2012,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2012,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2012,Year
+6,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2012,Year
+3,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2012,Year
+3,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2012,Year
+3,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2012,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,BlackAfricanAmer,C,2012,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,Multiple Races,C,2012,Year
+1,Legionellosis,Hispanic or Latino,Female,Cook,Other,C,2012,Year
+1,Legionellosis,Hispanic or Latino,Female,Cook,Other,C,2012,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,Other,C,2012,Year
+2,Legionellosis,Hispanic or Latino,Male,Cook,Other,C,2012,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,Other,C,2012,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,Other,C,2012,Year
+1,Legionellosis,Hispanic or Latino,Female,Cook,Unknown,C,2012,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,Unknown,C,2012,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,Unknown,C,2012,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,Unknown,C,2012,Year
+1,Legionellosis,UnkwnNotClassified,Female,Cook,Unknown,C,2012,Year
+1,Legionellosis,UnkwnNotClassified,Female,Cook,Unknown,C,2012,Year
+2,Legionellosis,UnkwnNotClassified,Female,Cook,Unknown,C,2012,Year
+3,Legionellosis,UnkwnNotClassified,Female,Cook,Unknown,C,2012,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,Unknown,C,2012,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,Unknown,C,2012,Year
+4,Legionellosis,UnkwnNotClassified,Male,Cook,Unknown,C,2012,Year
+2,Legionellosis,UnkwnNotClassified,Male,Cook,Unknown,C,2012,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,Unknown,C,2012,Year
+1,Legionellosis,Hispanic or Latino,Female,Cook,White,C,2012,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,White,C,2012,Year
+1,Legionellosis,Hispanic or Latino,Male,Cook,White,C,2012,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2012,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2012,Year
+1,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2012,Year
+7,Legionellosis,NotHispNotLatino,Female,Cook,White,C,2012,Year
+1,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2012,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2012,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2012,Year
+3,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2012,Year
+4,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2012,Year
+4,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2012,Year
+2,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2012,Year
+16,Legionellosis,NotHispNotLatino,Male,Cook,White,C,2012,Year
+1,Legionellosis,UnkwnNotClassified,Female,Cook,White,C,2012,Year
+1,Legionellosis,UnkwnNotClassified,Female,Cook,White,C,2012,Year
+1,Legionellosis,UnkwnNotClassified,Male,Cook,White,C,2012,Year
+1,Legionellosis,NotHispNotLatino,Female,Dupage,Asian,C,2012,Year
+1,Legionellosis,NotHispNotLatino,Female,Dupage,BlackAfricanAmer,C,2012,Year
+1,Legionellosis,UnkwnNotClassified,Male,Dupage,Unknown,C,2012,Year
+1,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2012,Year
+1,Legionellosis,NotHispNotLatino,Female,Dupage,White,C,2012,Year
